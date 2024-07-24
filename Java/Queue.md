@@ -1,0 +1,1 @@
+There is always a head entity.  Il y a toujours un concept de prochain élément à sortir

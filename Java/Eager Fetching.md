@@ -1,0 +1,1 @@
+EAGER fetching means that the associated **entities are loaded immediately along with the parent entity**, regardless of whether they are accessed or not.

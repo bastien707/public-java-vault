@@ -1,0 +1,1 @@
+A `Map` is not a true `Collection`. It does not implements the  `Collection` interface

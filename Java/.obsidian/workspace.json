@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "c9016304b52ad77c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1c9e0605ffec5dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd82e714c8ec365f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f052498c5aca696a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2af7cd8ebbd0a51b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70d7fb46a39d43c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7aea14639b842396",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8117c783bd9679b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7dc083aeef86c937",
+    "type": "split",
+    "children": [
+      {
+        "id": "889efc9b0e9de348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97cd4248206f8548",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3bb22360ee001e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a2e723a834d4030",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d025e63b5f413969",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cd82e714c8ec365f",
+  "lastOpenFiles": [
+    "Java/Welcome.md",
+    "Java/create a link.md",
+    "Java World.canvas",
+    "03 - Ressources/Ingénierie/Takima/Java/Pure Function.md",
+    "03 - Ressources/Ingénierie/Takima/Java",
+    "03 - Ressources/Ingénierie/Takima",
+    "03 - Ressources/Ingénierie",
+    "03 - Ressources",
+    "Map.md",
+    "LinkedList.md",
+    "Durability.md",
+    "Consistency.md"
+  ]
+}

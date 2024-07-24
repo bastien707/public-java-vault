@@ -1,1989 +1,252 @@
 {
-  "nodes": [
-    {
-      "id": "be895db2ad11c384",
-      "type": "group",
-      "x": 760,
-      "y": 1680,
-      "width": 1724,
-      "height": 580,
-      "color": "6",
-      "label": "5 Key concepts"
-    },
-    {
-      "id": "d0a650fc930f4388",
-      "type": "group",
-      "x": 3060,
-      "y": 100,
-      "width": 1154,
-      "height": 500,
-      "color": "4",
-      "label": "Fetching data"
-    },
-    {
-      "id": "a7565538ef104f4f",
-      "type": "group",
-      "x": 1760,
-      "y": -300,
-      "width": 509,
-      "height": 612,
-      "color": "2",
-      "label": "JPA implementation"
-    },
-    {
-      "id": "9b8371a6bb4c1bab",
-      "type": "group",
-      "x": -1260,
-      "y": -540,
-      "width": 460,
-      "height": 435,
-      "color": "6",
-      "label": "FP in Java"
-    },
-    {
-      "id": "85ad61116b93a6ec",
-      "type": "group",
-      "x": 3000,
-      "y": 840,
-      "width": 340,
-      "height": 423,
-      "color": "#bff58a",
-      "label": "ACID"
-    },
-    {
-      "id": "93f81ce948947886",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Context.md",
-      "x": 2432,
-      "y": -1947,
-      "width": 369,
-      "height": 195
-    },
-    {
-      "id": "5bb5f045b0686e9f",
-      "type": "text",
-      "text": "Prototype",
-      "x": 2987,
-      "y": -1577,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "b230c726a26d1a1e",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/OSIV (Open Session In View).md",
-      "x": 3103,
-      "y": -1179,
-      "width": 405,
-      "height": 207
-    },
-    {
-      "id": "cc50a4b00c4e454c",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/EntityManager.md",
-      "x": 3041,
-      "y": -822,
-      "width": 382,
-      "height": 142
-    },
-    {
-      "id": "a1b4bf67753640a5",
-      "type": "text",
-      "text": "# @Transactional\nOpen a session\nConnaitre les options: readonly, les scopes",
-      "x": 3620,
-      "y": -871,
-      "width": 284,
-      "height": 98
-    },
-    {
-      "id": "abbce8ae8695fb25",
-      "type": "text",
-      "text": "Propagation\nhttps://www.baeldung.com/spring-transactional-propagation-isolation",
-      "x": 4111,
-      "y": -849,
-      "width": 349,
-      "height": 129
-    },
-    {
-      "id": "02ae95560c7953ee",
-      "type": "text",
-      "text": "Singleton",
-      "x": 3065,
-      "y": -1802,
-      "width": 250,
-      "height": 50
-    },
-    {
-      "id": "1064d87a0958d7b6",
-      "type": "text",
-      "text": "Serialization",
-      "x": 2138,
-      "y": -1229,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "0f0b0049bfe716b9",
-      "type": "text",
-      "text": "ComponentScan",
-      "x": 2115,
-      "y": -1012,
-      "width": 250,
-      "height": 51
-    },
-    {
-      "id": "d1885ee73ba5f60a",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Session.md",
-      "x": 2660,
-      "y": -822,
-      "width": 340,
-      "height": 142
-    },
-    {
-      "id": "1508029a07d65114",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Beans.md",
-      "x": 2432,
-      "y": -1707,
-      "width": 375,
-      "height": 200
-    },
-    {
-      "id": "06b9951d1ba94688",
-      "type": "text",
-      "text": "String",
-      "x": 540,
-      "y": -612,
-      "width": 250,
-      "height": 50
-    },
-    {
-      "id": "7ba5580523e14f2d",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Spring Framework.md",
-      "x": 1200,
-      "y": -1169,
-      "width": 420,
-      "height": 211
-    },
-    {
-      "id": "9c73ae739e0b2491",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Collection.md",
-      "x": -139,
-      "y": -1322,
-      "width": 439,
-      "height": 186
-    },
-    {
-      "id": "b079d5cd6fb64f1a",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Map.md",
-      "x": 471,
-      "y": -1352,
-      "width": 369,
-      "height": 123
-    },
-    {
-      "id": "2cb4f440fbdd1d87",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/The Collections Framework.md",
-      "x": 81,
-      "y": -875,
-      "width": 402,
-      "height": 174
-    },
-    {
-      "id": "ce39550ab6526396",
-      "type": "text",
-      "text": "Concurrency",
-      "x": -466,
-      "y": -1076,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9f04d3a317c01cd6",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Inversion of Control.md",
-      "x": 2307,
-      "y": -1406,
-      "width": 375,
-      "height": 136
-    },
-    {
-      "id": "6c0c476c6d51b18e",
-      "type": "text",
-      "text": "Spring Boot\nIl fournit un uber jar qui contient l'application et les dépendances.",
-      "x": 2432,
-      "y": -1121,
-      "width": 275,
-      "height": 109
-    },
-    {
-      "id": "f5819dcb9bb743ef",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Core Container.md",
-      "x": 1860,
-      "y": -1657,
-      "width": 340,
-      "height": 160
-    },
-    {
-      "id": "2aeb504e28bb7d9b",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/ArrayList.md",
-      "x": -537,
-      "y": -2200,
-      "width": 317,
-      "height": 110
-    },
-    {
-      "id": "e6730451c65c6280",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/TreeSet.md",
-      "x": -601,
-      "y": -1883,
-      "width": 381,
-      "height": 103
-    },
-    {
-      "id": "8e316664dc6c22e6",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/HashSet.md",
-      "x": -983,
-      "y": -2047,
-      "width": 370,
-      "height": 109
-    },
-    {
-      "id": "db174d74b8fe2209",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/LinkedHashSet.md",
-      "x": -1140,
-      "y": -1744,
-      "width": 358,
-      "height": 147
-    },
-    {
-      "id": "392c015f272a047d",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Set.md",
-      "x": -668,
-      "y": -1510,
-      "width": 403,
-      "height": 134
-    },
-    {
-      "id": "6a8e66ac2a15f3d2",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/LinkedList.md",
-      "x": -65,
-      "y": -2248,
-      "width": 291,
-      "height": 128
-    },
-    {
-      "id": "1d391adbcd3a553b",
-      "type": "text",
-      "text": "ArrayDeque",
-      "x": 405,
-      "y": -2200,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "3947bcecf08d109e",
-      "type": "text",
-      "text": "Serialization",
-      "x": -928,
-      "y": -1136,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "bc853cad8009ada2",
-      "type": "text",
-      "text": "IO",
-      "x": -583,
-      "y": -875,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "0e5f5223fcd1f0e0",
-      "type": "text",
-      "text": "Terminal operations",
-      "x": -1098,
-      "y": -801,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "ea2df9b49fa7c550",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/List.md",
-      "x": -220,
-      "y": -1721,
-      "width": 301,
-      "height": 124
-    },
-    {
-      "id": "d7484465221d311f",
-      "type": "text",
-      "text": "HashMap",
-      "x": 327,
-      "y": -1597,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "2a7ccf349b4e8ae2",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/TreeMap.md",
-      "x": 664,
-      "y": -1597,
-      "width": 356,
-      "height": 117
-    },
-    {
-      "id": "764d9a6574019895",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Aspect Oriented Programming.md",
-      "x": 2013,
-      "y": -2512,
-      "width": 385,
-      "height": 187
-    },
-    {
-      "id": "49482e55ddb11f4a",
-      "type": "text",
-      "text": "Spring proxies.\nProxy design pattern\nhappens at runtime",
-      "x": 2580,
-      "y": -2583,
-      "width": 250,
-      "height": 85
-    },
-    {
-      "id": "f20c64ef32255471",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Dependency Injection.md",
-      "x": 2092,
-      "y": -2220,
-      "width": 431,
-      "height": 161
-    },
-    {
-      "id": "7e22152d2bf42037",
-      "type": "text",
-      "text": "Dequeu",
-      "x": 155,
-      "y": -1943,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "5bce49f73f52c7b3",
-      "type": "text",
-      "text": "CGLIB Proxies",
-      "x": 2425,
-      "y": -2783,
-      "width": 250,
-      "height": 50
-    },
-    {
-      "id": "9a52cbb44f374bdd",
-      "type": "text",
-      "text": "JDK Dynamic Proxies",
-      "x": 2758,
-      "y": -2783,
-      "width": 250,
-      "height": 50
-    },
-    {
-      "id": "c4282bba6827342f",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Queue.md",
-      "x": 155,
-      "y": -1744,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "d79dfad5ee52f273",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Encapsulation.md",
-      "x": 567,
-      "y": 1336,
-      "width": 404,
-      "height": 166
-    },
-    {
-      "id": "aaef624b0c2b3178",
-      "type": "text",
-      "text": "CraftmasnShip",
-      "x": 2083,
-      "y": 1359,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "345946ea31de9ae7",
-      "type": "text",
-      "text": "Database",
-      "x": 1892,
-      "y": 819,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "3d22b4e1ae4ba0b6",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Hypermedia.md",
-      "x": 2040,
-      "y": 1752,
-      "width": 352,
-      "height": 148
-    },
-    {
-      "id": "0d573339942f073a",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Java Persistence API (JPA).md",
-      "x": 1074,
-      "y": -25,
-      "width": 443,
-      "height": 232
-    },
-    {
-      "id": "7ee9319a9e44693e",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/EclipseLink.md",
-      "x": 1787,
-      "y": 12,
-      "width": 462,
-      "height": 143
-    },
-    {
-      "id": "9fa1122f68896565",
-      "type": "text",
-      "text": "# Open JPA",
-      "x": 1787,
-      "y": 199,
-      "width": 462,
-      "height": 73
-    },
-    {
-      "id": "74085217199c5ec3",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Hibernate.md",
-      "isStartNode": false,
-      "x": 1780,
-      "y": -280,
-      "width": 469,
-      "height": 247
-    },
-    {
-      "id": "cf47443ecbaf982e",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Identifiable resources.md",
-      "x": 812,
-      "y": 1760,
-      "width": 385,
-      "height": 140
-    },
-    {
-      "id": "0ca56baef2364a66",
-      "type": "text",
-      "text": "Integration Test",
-      "x": 509,
-      "y": 576,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b5965273e06b90c7",
-      "type": "text",
-      "text": "SpringTestContainerContext",
-      "x": 509,
-      "y": 732,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b71427b2720376b8",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Object Oriented Programming.md",
-      "x": -5,
-      "y": 747,
-      "width": 290,
-      "height": 84
-    },
-    {
-      "id": "dd22474aa020661d",
-      "type": "text",
-      "text": "Unit test",
-      "x": 285,
-      "y": 480,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "d291243ef0083a2c",
-      "type": "text",
-      "text": "# JAVA\nPOO language that is multi paradigm",
-      "isStartNode": false,
-      "x": 0,
-      "y": 136,
-      "width": 285,
-      "height": 104,
-      "color": "3"
-    },
-    {
-      "id": "e17774df731faa63",
-      "type": "text",
-      "text": "End to End",
-      "x": 702,
-      "y": 480,
-      "width": 198,
-      "height": 60
-    },
-    {
-      "id": "caef5be0bbfab52e",
-      "type": "text",
-      "text": "Test",
-      "x": 455,
-      "y": 280,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9124d1aa1fd6d50e",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Java APIs.md",
-      "x": -35,
-      "y": -362,
-      "width": 361,
-      "height": 221
-    },
-    {
-      "id": "3f247c5173e52e24",
-      "type": "file",
-      "file": "00 - Boîte de récéption/Abstraction.md",
-      "x": -39,
-      "y": 1410,
-      "width": 359,
-      "height": 113
-    },
-    {
-      "id": "dbe70793eabcf87b",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Java Compiler.md",
-      "x": -1333,
-      "y": 1144,
-      "width": 342,
-      "height": 185
-    },
-    {
-      "id": "246e61859ae62dd6",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Java Runtime Environment.md",
-      "x": -886,
-      "y": 1144,
-      "width": 368,
-      "height": 185
-    },
-    {
-      "id": "7316e2105ac9cfb1",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/URI.md",
-      "x": 132,
-      "y": 1957,
-      "width": 388,
-      "height": 114
-    },
-    {
-      "id": "f06b3541cb6d28c6",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Java Virtual Machine.md",
-      "x": -886,
-      "y": 1509,
-      "width": 349,
-      "height": 168
-    },
-    {
-      "id": "4e9f8206be86b27a",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Just In Time (JIT).md",
-      "x": -1486,
-      "y": 1527,
-      "width": 400,
-      "height": 191
-    },
-    {
-      "id": "235b33ac4f466708",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Garbage Collector.md",
-      "x": -757,
-      "y": 1900,
-      "width": 397,
-      "height": 171
-    },
-    {
-      "id": "c06fdf5464d73b96",
-      "type": "text",
-      "text": "Class",
-      "x": 480,
-      "y": 975,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "40952038b937e5b6",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Inheritance.md",
-      "x": -290,
-      "y": 1035,
-      "width": 380,
-      "height": 145
-    },
-    {
-      "id": "56ba8aa769f51380",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Polymorphism.md",
-      "x": 180,
-      "y": 1164,
-      "width": 348,
-      "height": 145
-    },
-    {
-      "id": "2f928274f20622ff",
-      "type": "text",
-      "text": "Intermediate Operations",
-      "x": -1098,
-      "y": -676,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "c92381fbf552a44c",
-      "type": "text",
-      "text": "Xmx, Xms",
-      "x": -1286,
-      "y": 2071,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "20daa1845a695932",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Heap and Stack.md",
-      "x": -711,
-      "y": 2223,
-      "width": 405,
-      "height": 195
-    },
-    {
-      "id": "157eb734c466867b",
-      "type": "text",
-      "text": "Lambda expression",
-      "x": -1240,
-      "y": -412,
-      "width": 267,
-      "height": 50
-    },
-    {
-      "id": "8222d1ef18e90f1f",
-      "type": "text",
-      "text": "Functional Interface",
-      "x": -1240,
-      "y": -496,
-      "width": 267,
-      "height": 53
-    },
-    {
-      "id": "31d3e21f188376be",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Pure Function.md",
-      "x": -1240,
-      "y": -329,
-      "width": 400,
-      "height": 194
-    },
-    {
-      "id": "ea9ca19b658779da",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Equals.md",
-      "x": -1816,
-      "y": -169,
-      "width": 395,
-      "height": 243
-    },
-    {
-      "id": "f0d125d4b064c45a",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Functional programming.md",
-      "isStartNode": false,
-      "x": -646,
-      "y": -325,
-      "width": 446,
-      "height": 220
-    },
-    {
-      "id": "01e77dec720d2f8e",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Streams.md",
-      "x": -583,
-      "y": -562,
-      "width": 321,
-      "height": 131
-    },
-    {
-      "id": "7f0d6bcda336e550",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Java Development Kit (JDK).md",
-      "x": -1040,
-      "y": 732,
-      "width": 374,
-      "height": 174
-    },
-    {
-      "id": "723b835a35f60050",
-      "type": "text",
-      "text": "Runtime (Unchecked)",
-      "x": -654,
-      "y": 509,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "c3aa06f3ab2baa9d",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/HashCode.md",
-      "x": -1816,
-      "y": 453,
-      "width": 395,
-      "height": 223
-    },
-    {
-      "id": "255aad49be740e76",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Object.md",
-      "x": -1143,
-      "y": 136,
-      "width": 303,
-      "height": 240
-    },
-    {
-      "id": "a37a7aecd1a0b0ae",
-      "type": "text",
-      "text": "# Contract\n\n- **Equality and Hashing**: If two objects are considered equal (`a.equals(b)` returns `true`), they must have the same hash code (`a.hashCode() == b.hashCode()`).\n- **Hashing and Collections**: Collections that use hashing (like `HashSet`, `HashMap`) rely on the hash code to place objects in buckets. If the hash codes of the objects differ, the collection assumes that the objects are different. If the hash codes are the same, the collection uses the `equals` method to distinguish the objects.",
-      "x": -1816,
-      "y": 180,
-      "width": 395,
-      "height": 152
-    },
-    {
-      "id": "c6af42ee125c8fc9",
-      "type": "text",
-      "text": "Checked",
-      "x": -1033,
-      "y": 504,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "e3e5cbc67609901d",
-      "type": "text",
-      "text": "# Bucket\nComposed of linked list\nif hashcode it always the same value we get just a big linkedlist.",
-      "x": -2480,
-      "y": 487,
-      "width": 360,
-      "height": 153
-    },
-    {
-      "id": "058e9250ab6dc1fa",
-      "type": "text",
-      "text": "Exceptions",
-      "x": -779,
-      "y": 376,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "9a46a428cf39f387",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/images/Screenshot 2024-07-09 at 9.55.32 AM.png",
-      "x": 3344,
-      "y": -561,
-      "width": 560,
-      "height": 207
-    },
-    {
-      "id": "00f324802719f3b9",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Eager Fetching.md",
-      "x": 3080,
-      "y": 366,
-      "width": 388,
-      "height": 200
-    },
-    {
-      "id": "4ca220b7cd564730",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Lazy loading.md",
-      "x": 3080,
-      "y": 120,
-      "width": 388,
-      "height": 186
-    },
-    {
-      "id": "809d7faed661d797",
-      "type": "text",
-      "text": "Join fetch",
-      "x": 3722,
-      "y": -41,
-      "width": 158,
-      "height": 50
-    },
-    {
-      "id": "8251d01c9f8b0686",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/images/Screenshot 2024-06-25 at 9.08.30 PM.png",
-      "x": 3508,
-      "y": 123,
-      "width": 686,
-      "height": 446
-    },
-    {
-      "id": "3f1c4e0be22e3c51",
-      "type": "text",
-      "text": "JPQL",
-      "x": 2716,
-      "y": 566,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "622b1d8c7ced4f9d",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/N+1 problem.md",
-      "x": 3722,
-      "y": -301,
-      "width": 472,
-      "height": 153
-    },
-    {
-      "id": "ee97de1b9d018a2a",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Persistence context.md",
-      "x": 2720,
-      "y": -496,
-      "width": 512,
-      "height": 256
-    },
-    {
-      "id": "aa031b3a01c1a737",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Persistence life cycle.md",
-      "x": 2720,
-      "y": -175,
-      "width": 512,
-      "height": 159
-    },
-    {
-      "id": "5e9584ab70418ad8",
-      "type": "text",
-      "text": "YAGNI, KISS, DRY",
-      "x": 2561,
-      "y": 1329,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "16a178d3813c653b",
-      "type": "text",
-      "text": "Extreme programming",
-      "x": 2530,
-      "y": 1474,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "ef0e8ddbd5bfbbde",
-      "type": "text",
-      "text": "SOLID",
-      "x": 2510,
-      "y": 1233,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "5b9ea40a7b88a998",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Atomicity.md",
-      "x": 3036,
-      "y": 866,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e5b52a48f7501a8c",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Consistency.md",
-      "x": 3036,
-      "y": 973,
-      "width": 260,
-      "height": 56
-    },
-    {
-      "id": "c1083be3297b89bf",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Isolation.md",
-      "x": 3036,
-      "y": 1076,
-      "width": 260,
-      "height": 50
-    },
-    {
-      "id": "03dc977450da06f1",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Durability.md",
-      "x": 3036,
-      "y": 1173,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "6a15b1d52f48856a",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Hibernate Cache.md",
-      "x": 2215,
-      "y": -584,
-      "width": 420,
-      "height": 176
-    },
-    {
-      "id": "2a7567e5f95d5bf4",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Transaction.md",
-      "x": 2340,
-      "y": 935,
-      "width": 384,
-      "height": 163
-    },
-    {
-      "id": "9452957afc878a35",
-      "type": "text",
-      "text": "Jointures",
-      "x": 2695,
-      "y": 685,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "5675171e03d5ed8a",
-      "type": "text",
-      "text": "Projection",
-      "x": 2330,
-      "y": 496,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "902b06a7ab8f4ea7",
-      "type": "text",
-      "text": "SQL",
-      "isStartNode": false,
-      "x": 2260,
-      "y": 670,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "2b6ee043b8e4cbb9",
-      "type": "text",
-      "text": "NoSQL",
-      "isStartNode": false,
-      "x": 2385,
-      "y": 762,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "84a782f94bcc7681",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Relationships.md",
-      "x": 2332,
-      "y": 120,
-      "width": 460,
-      "height": 146
-    },
-    {
-      "id": "4cc5065f1ba9f6b3",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Java Versions and features.md",
-      "x": 459,
-      "y": -314,
-      "width": 360,
-      "height": 158
-    },
-    {
-      "id": "1697a51eae2baabc",
-      "type": "text",
-      "text": "# Paradigm\nProgramming paradigm is **an approach to solve problem** using some programming language or also we can say it is a method to solve a problem using tools and techniques that are available to us",
-      "x": -928,
-      "y": -33,
-      "width": 367,
-      "height": 128
-    },
-    {
-      "id": "6b01d262591c6225",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Standardized interface.md",
-      "x": 1004,
-      "y": 2014,
-      "width": 364,
-      "height": 168
-    },
-    {
-      "id": "a124f1199b7d8b43",
-      "type": "text",
-      "text": "# Stateless\nEach request contains all the information needed for the server to process it, with no client state stored on the server.\n\n**Make the app scalable**. Requires only a front-end load balancer.\n**Favors low coupling**: Session concept cannot be shared.\n\nThe advantage of stateles is that it makes it easier to replicate servers, since no data is saved in RAM. **Allows easy horizontal scaling (server replication)**.",
-      "x": 1380,
-      "y": 2014,
-      "width": 380,
-      "height": 168
-    },
-    {
-      "id": "14c338577b266a0d",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Resource representation.md",
-      "x": 1816,
-      "y": 2014,
-      "width": 400,
-      "height": 168
-    },
-    {
-      "id": "354d0f9dc871f8de",
-      "type": "text",
-      "text": "Application Web",
-      "x": 577,
-      "y": 128,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "f03c0fd86bcf1926",
-      "type": "text",
-      "text": "Servlet",
-      "x": 1787,
-      "y": -622,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "bea7171b441eb317",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Spring MVC.md",
-      "x": 1245,
-      "y": -753,
-      "width": 375,
-      "height": 191
-    },
-    {
-      "id": "f31794889adb64f9",
-      "type": "text",
-      "text": "Specification",
-      "x": 869,
-      "y": -2418,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "7a8310d5dbee1bb5",
-      "type": "text",
-      "text": "Projection",
-      "x": 1303,
-      "y": -2418,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "3969d0ef51f13c94",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/Spring Data JPA.md",
-      "x": 949,
-      "y": -1960,
-      "width": 354,
-      "height": 150
-    },
-    {
-      "id": "57f2f6e722568b1a",
-      "type": "file",
-      "file": "03 - Ressources/Ingénierie/Takima/Java/REST.md",
-      "x": 1294,
-      "y": 1222,
-      "width": 446,
-      "height": 175
-    }
-  ],
-  "edges": [
-    {
-      "id": "2d5a9e165ba34a42",
-      "fromNode": "d291243ef0083a2c",
-      "fromSide": "right",
-      "toNode": "354d0f9dc871f8de",
-      "toSide": "left",
-      "color": "3"
-    },
-    {
-      "id": "4c8c279a329d9e44",
-      "fromNode": "354d0f9dc871f8de",
-      "fromSide": "right",
-      "toNode": "7ba5580523e14f2d",
-      "toSide": "left"
-    },
-    {
-      "id": "370f439a164bf26d",
-      "fromNode": "354d0f9dc871f8de",
-      "fromSide": "right",
-      "toNode": "0d573339942f073a",
-      "toSide": "left"
-    },
-    {
-      "id": "5b591330875dbee7",
-      "fromNode": "354d0f9dc871f8de",
-      "fromSide": "right",
-      "toNode": "345946ea31de9ae7",
-      "toSide": "left"
-    },
-    {
-      "id": "ad87886eb8f75edf",
-      "fromNode": "354d0f9dc871f8de",
-      "fromSide": "right",
-      "toNode": "aaef624b0c2b3178",
-      "toSide": "left"
-    },
-    {
-      "id": "ddd2ed17ac309136",
-      "fromNode": "354d0f9dc871f8de",
-      "fromSide": "right",
-      "toNode": "57f2f6e722568b1a",
-      "toSide": "top"
-    },
-    {
-      "id": "84062582343953af",
-      "fromNode": "aaef624b0c2b3178",
-      "fromSide": "right",
-      "toNode": "ef0e8ddbd5bfbbde",
-      "toSide": "left"
-    },
-    {
-      "id": "033af50105d3b385",
-      "fromNode": "aaef624b0c2b3178",
-      "fromSide": "right",
-      "toNode": "5e9584ab70418ad8",
-      "toSide": "left"
-    },
-    {
-      "id": "c5bd7f7d1c0b0ff8",
-      "fromNode": "aaef624b0c2b3178",
-      "fromSide": "right",
-      "toNode": "16a178d3813c653b",
-      "toSide": "left"
-    },
-    {
-      "id": "ca5b1f93f658d7be",
-      "fromNode": "345946ea31de9ae7",
-      "fromSide": "right",
-      "toNode": "902b06a7ab8f4ea7",
-      "toSide": "left"
-    },
-    {
-      "id": "830ac8882b1ddde7",
-      "fromNode": "345946ea31de9ae7",
-      "fromSide": "right",
-      "toNode": "2b6ee043b8e4cbb9",
-      "toSide": "left"
-    },
-    {
-      "id": "7011e7a33d217fe2",
-      "fromNode": "345946ea31de9ae7",
-      "fromSide": "right",
-      "toNode": "2a7567e5f95d5bf4",
-      "toSide": "left"
-    },
-    {
-      "id": "43738ef50544489d",
-      "fromNode": "0d573339942f073a",
-      "fromSide": "right",
-      "toNode": "74085217199c5ec3",
-      "toSide": "left"
-    },
-    {
-      "id": "0c756f0563b12cc8",
-      "fromNode": "7ba5580523e14f2d",
-      "fromSide": "right",
-      "toNode": "6c0c476c6d51b18e",
-      "toSide": "left"
-    },
-    {
-      "id": "b321d4cdd6992823",
-      "fromNode": "7ba5580523e14f2d",
-      "fromSide": "right",
-      "toNode": "0f0b0049bfe716b9",
-      "toSide": "left"
-    },
-    {
-      "id": "69a8b834433a9d20",
-      "fromNode": "764d9a6574019895",
-      "fromSide": "right",
-      "toNode": "49482e55ddb11f4a",
-      "toSide": "left"
-    },
-    {
-      "id": "1cab6bed999eeb2b",
-      "fromNode": "235b33ac4f466708",
-      "fromSide": "left",
-      "toNode": "c92381fbf552a44c",
-      "toSide": "top"
-    },
-    {
-      "id": "1a9162c7680dc521",
-      "fromNode": "f06b3541cb6d28c6",
-      "fromSide": "bottom",
-      "toNode": "235b33ac4f466708",
-      "toSide": "top"
-    },
-    {
-      "id": "3e2c1ede301bf395",
-      "fromNode": "235b33ac4f466708",
-      "fromSide": "bottom",
-      "toNode": "20daa1845a695932",
-      "toSide": "top"
-    },
-    {
-      "id": "ed9174dade955bf1",
-      "fromNode": "d291243ef0083a2c",
-      "fromSide": "bottom",
-      "toNode": "058e9250ab6dc1fa",
-      "toSide": "top",
-      "color": "3"
-    },
-    {
-      "id": "3cb4db51243f2337",
-      "fromNode": "058e9250ab6dc1fa",
-      "fromSide": "bottom",
-      "toNode": "c6af42ee125c8fc9",
-      "toSide": "top"
-    },
-    {
-      "id": "51c1fa182b19aa8d",
-      "fromNode": "058e9250ab6dc1fa",
-      "fromSide": "bottom",
-      "toNode": "723b835a35f60050",
-      "toSide": "top"
-    },
-    {
-      "id": "8a30cc6b022bd6e2",
-      "fromNode": "d291243ef0083a2c",
-      "fromSide": "left",
-      "toNode": "255aad49be740e76",
-      "toSide": "right",
-      "color": "3"
-    },
-    {
-      "id": "2063beb992dc6642",
-      "fromNode": "255aad49be740e76",
-      "fromSide": "left",
-      "toNode": "ea9ca19b658779da",
-      "toSide": "right"
-    },
-    {
-      "id": "cf89131b5b890c56",
-      "fromNode": "255aad49be740e76",
-      "fromSide": "left",
-      "toNode": "c3aa06f3ab2baa9d",
-      "toSide": "right"
-    },
-    {
-      "id": "082893981f2e3e6f",
-      "fromNode": "c3aa06f3ab2baa9d",
-      "fromSide": "left",
-      "toNode": "e3e5cbc67609901d",
-      "toSide": "right"
-    },
-    {
-      "id": "01038c1b96ac3a15",
-      "fromNode": "d291243ef0083a2c",
-      "fromSide": "top",
-      "toNode": "9124d1aa1fd6d50e",
-      "toSide": "bottom",
-      "color": "3"
-    },
-    {
-      "id": "ab816913934c8501",
-      "fromNode": "9124d1aa1fd6d50e",
-      "fromSide": "left",
-      "toNode": "01e77dec720d2f8e",
-      "toSide": "right"
-    },
-    {
-      "id": "be7c3c5dbb15a371",
-      "fromNode": "9124d1aa1fd6d50e",
-      "fromSide": "right",
-      "toNode": "06b9951d1ba94688",
-      "toSide": "left"
-    },
-    {
-      "id": "9df61ae342075d42",
-      "fromNode": "9c73ae739e0b2491",
-      "fromSide": "top",
-      "toNode": "ea2df9b49fa7c550",
-      "toSide": "bottom"
-    },
-    {
-      "id": "22400509c8653eac",
-      "fromNode": "9c73ae739e0b2491",
-      "fromSide": "top",
-      "toNode": "c4282bba6827342f",
-      "toSide": "bottom"
-    },
-    {
-      "id": "455501d7985e22c4",
-      "fromNode": "ea2df9b49fa7c550",
-      "fromSide": "top",
-      "toNode": "2aeb504e28bb7d9b",
-      "toSide": "bottom"
-    },
-    {
-      "id": "89f73453f9eea16d",
-      "fromNode": "ea2df9b49fa7c550",
-      "fromSide": "top",
-      "toNode": "6a8e66ac2a15f3d2",
-      "toSide": "bottom"
-    },
-    {
-      "id": "8ab80885a0b1b71f",
-      "fromNode": "c4282bba6827342f",
-      "fromSide": "top",
-      "toNode": "7e22152d2bf42037",
-      "toSide": "bottom"
-    },
-    {
-      "id": "f6e203749fbd7e81",
-      "fromNode": "7e22152d2bf42037",
-      "fromSide": "top",
-      "toNode": "6a8e66ac2a15f3d2",
-      "toSide": "bottom"
-    },
-    {
-      "id": "e1000be18b21bf1b",
-      "fromNode": "7e22152d2bf42037",
-      "fromSide": "top",
-      "toNode": "1d391adbcd3a553b",
-      "toSide": "bottom"
-    },
-    {
-      "id": "d871855ac6600f01",
-      "fromNode": "b71427b2720376b8",
-      "fromSide": "bottom",
-      "toNode": "c06fdf5464d73b96",
-      "toSide": "top"
-    },
-    {
-      "id": "18dacc215251de62",
-      "fromNode": "b71427b2720376b8",
-      "fromSide": "bottom",
-      "toNode": "40952038b937e5b6",
-      "toSide": "top"
-    },
-    {
-      "id": "8afb2a6d0eda69d2",
-      "fromNode": "b71427b2720376b8",
-      "fromSide": "bottom",
-      "toNode": "56ba8aa769f51380",
-      "toSide": "top"
-    },
-    {
-      "id": "9b8e94c762a4e2dc",
-      "fromNode": "b71427b2720376b8",
-      "fromSide": "bottom",
-      "toNode": "3f247c5173e52e24",
-      "toSide": "top"
-    },
-    {
-      "id": "3c4d43dcfb89aa35",
-      "fromNode": "74085217199c5ec3",
-      "fromSide": "right",
-      "toNode": "aa031b3a01c1a737",
-      "toSide": "left"
-    },
-    {
-      "id": "32288d9eb9a6cd35",
-      "fromNode": "49482e55ddb11f4a",
-      "fromSide": "top",
-      "toNode": "9a52cbb44f374bdd",
-      "toSide": "bottom"
-    },
-    {
-      "id": "147ecd3533910b10",
-      "fromNode": "0d573339942f073a",
-      "fromSide": "right",
-      "toNode": "7ee9319a9e44693e",
-      "toSide": "left"
-    },
-    {
-      "id": "0f7ac16b2404d3da",
-      "fromNode": "49482e55ddb11f4a",
-      "fromSide": "top",
-      "toNode": "5bce49f73f52c7b3",
-      "toSide": "bottom"
-    },
-    {
-      "id": "cd52a344cca41857",
-      "fromNode": "01e77dec720d2f8e",
-      "fromSide": "left",
-      "toNode": "0e5f5223fcd1f0e0",
-      "toSide": "right"
-    },
-    {
-      "id": "6e9b3961722ab40f",
-      "fromNode": "01e77dec720d2f8e",
-      "fromSide": "left",
-      "toNode": "2f928274f20622ff",
-      "toSide": "right"
-    },
-    {
-      "id": "5c1103d97c86cc97",
-      "fromNode": "d291243ef0083a2c",
-      "fromSide": "right",
-      "toNode": "4cc5065f1ba9f6b3",
-      "toSide": "left",
-      "color": "3"
-    },
-    {
-      "id": "5c69ef7bf15d32f5",
-      "fromNode": "57f2f6e722568b1a",
-      "fromSide": "bottom",
-      "toNode": "3d22b4e1ae4ba0b6",
-      "toSide": "top"
-    },
-    {
-      "id": "6aab3935eb10ef70",
-      "fromNode": "57f2f6e722568b1a",
-      "fromSide": "bottom",
-      "toNode": "a124f1199b7d8b43",
-      "toSide": "top"
-    },
-    {
-      "id": "4e2b3c4944052a7d",
-      "fromNode": "2a7567e5f95d5bf4",
-      "fromSide": "right",
-      "toNode": "5b9ea40a7b88a998",
-      "toSide": "left"
-    },
-    {
-      "id": "a2c13acd18a865b2",
-      "fromNode": "d291243ef0083a2c",
-      "fromSide": "top",
-      "toNode": "f0d125d4b064c45a",
-      "toSide": "bottom",
-      "color": "3"
-    },
-    {
-      "id": "2dd7225f4ea02729",
-      "fromNode": "7ba5580523e14f2d",
-      "fromSide": "right",
-      "toNode": "1064d87a0958d7b6",
-      "toSide": "left"
-    },
-    {
-      "id": "3f5a5f8c05b96120",
-      "fromNode": "f0d125d4b064c45a",
-      "fromSide": "top",
-      "toNode": "01e77dec720d2f8e",
-      "toSide": "bottom"
-    },
-    {
-      "id": "7a08d1bd0b1540fc",
-      "fromNode": "b71427b2720376b8",
-      "fromSide": "bottom",
-      "toNode": "d79dfad5ee52f273",
-      "toSide": "top"
-    },
-    {
-      "id": "a27491366cc51b24",
-      "fromNode": "d291243ef0083a2c",
-      "fromSide": "bottom",
-      "toNode": "b71427b2720376b8",
-      "toSide": "top",
-      "color": "3"
-    },
-    {
-      "id": "c41be32aeb7de7d8",
-      "fromNode": "f0d125d4b064c45a",
-      "fromSide": "left",
-      "toNode": "1697a51eae2baabc",
-      "toSide": "top"
-    },
-    {
-      "id": "e30dbc89d3935851",
-      "fromNode": "f0d125d4b064c45a",
-      "fromSide": "left",
-      "toNode": "157eb734c466867b",
-      "toSide": "right"
-    },
-    {
-      "id": "c48f59ebf446ad7c",
-      "fromNode": "f0d125d4b064c45a",
-      "fromSide": "left",
-      "toNode": "31d3e21f188376be",
-      "toSide": "right"
-    },
-    {
-      "id": "372c897004ac45f2",
-      "fromNode": "f0d125d4b064c45a",
-      "fromSide": "left",
-      "toNode": "8222d1ef18e90f1f",
-      "toSide": "right"
-    },
-    {
-      "id": "5b54b970edaeaf6d",
-      "fromNode": "74085217199c5ec3",
-      "fromSide": "top",
-      "toNode": "6a15b1d52f48856a",
-      "toSide": "left"
-    },
-    {
-      "id": "a2c2bc17e0cafeea",
-      "fromNode": "74085217199c5ec3",
-      "fromSide": "right",
-      "toNode": "ee97de1b9d018a2a",
-      "toSide": "left"
-    },
-    {
-      "id": "4ffac330835c2cfe",
-      "fromNode": "74085217199c5ec3",
-      "fromSide": "right",
-      "toNode": "84a782f94bcc7681",
-      "toSide": "top"
-    },
-    {
-      "id": "85ff46a48f7f3564",
-      "fromNode": "ee97de1b9d018a2a",
-      "fromSide": "top",
-      "toNode": "cc50a4b00c4e454c",
-      "toSide": "bottom"
-    },
-    {
-      "id": "33eaea7eb284706f",
-      "fromNode": "84a782f94bcc7681",
-      "fromSide": "right",
-      "toNode": "4ca220b7cd564730",
-      "toSide": "left"
-    },
-    {
-      "id": "35a3d2e7e17db10b",
-      "fromNode": "84a782f94bcc7681",
-      "fromSide": "right",
-      "toNode": "00f324802719f3b9",
-      "toSide": "left"
-    },
-    {
-      "id": "01afacf205fbc14a",
-      "fromNode": "d0a650fc930f4388",
-      "fromSide": "top",
-      "toNode": "622b1d8c7ced4f9d",
-      "toSide": "left"
-    },
-    {
-      "id": "b88f3e204f975227",
-      "fromNode": "d0a650fc930f4388",
-      "fromSide": "top",
-      "toNode": "809d7faed661d797",
-      "toSide": "left"
-    },
-    {
-      "id": "c4dba06f4eb2f36d",
-      "fromNode": "d291243ef0083a2c",
-      "fromSide": "bottom",
-      "toNode": "7f0d6bcda336e550",
-      "toSide": "right",
-      "color": "3"
-    },
-    {
-      "id": "936bb1aff7bc30cd",
-      "fromNode": "354d0f9dc871f8de",
-      "fromSide": "bottom",
-      "toNode": "caef5be0bbfab52e",
-      "toSide": "top"
-    },
-    {
-      "id": "ae2342b6f777d190",
-      "fromNode": "cc50a4b00c4e454c",
-      "fromSide": "top",
-      "toNode": "b230c726a26d1a1e",
-      "toSide": "bottom"
-    },
-    {
-      "id": "5c3040dc5ee34746",
-      "fromNode": "902b06a7ab8f4ea7",
-      "fromSide": "top",
-      "toNode": "5675171e03d5ed8a",
-      "toSide": "bottom"
-    },
-    {
-      "id": "657142e227985fc0",
-      "fromNode": "902b06a7ab8f4ea7",
-      "fromSide": "right",
-      "toNode": "3f1c4e0be22e3c51",
-      "toSide": "left"
-    },
-    {
-      "id": "475f74deafe86c41",
-      "fromNode": "902b06a7ab8f4ea7",
-      "fromSide": "right",
-      "toNode": "9452957afc878a35",
-      "toSide": "left"
-    },
-    {
-      "id": "b0d986d6831bcb6c",
-      "fromNode": "caef5be0bbfab52e",
-      "fromSide": "bottom",
-      "toNode": "dd22474aa020661d",
-      "toSide": "top"
-    },
-    {
-      "id": "da764d96cf09443e",
-      "fromNode": "caef5be0bbfab52e",
-      "fromSide": "bottom",
-      "toNode": "0ca56baef2364a66",
-      "toSide": "top"
-    },
-    {
-      "id": "a6a4c9ed4de05346",
-      "fromNode": "caef5be0bbfab52e",
-      "fromSide": "bottom",
-      "toNode": "e17774df731faa63",
-      "toSide": "top"
-    },
-    {
-      "id": "679d3274d20d5c0f",
-      "fromNode": "0ca56baef2364a66",
-      "fromSide": "bottom",
-      "toNode": "b5965273e06b90c7",
-      "toSide": "top"
-    },
-    {
-      "id": "e4f69f00c3e2cef2",
-      "fromNode": "ee97de1b9d018a2a",
-      "fromSide": "top",
-      "toNode": "d1885ee73ba5f60a",
-      "toSide": "bottom"
-    },
-    {
-      "id": "db63762b4cbff758",
-      "fromNode": "cc50a4b00c4e454c",
-      "fromSide": "right",
-      "toNode": "a1b4bf67753640a5",
-      "toSide": "left"
-    },
-    {
-      "id": "4cd20d89e75d9304",
-      "fromNode": "7f0d6bcda336e550",
-      "fromSide": "bottom",
-      "toNode": "246e61859ae62dd6",
-      "toSide": "top"
-    },
-    {
-      "id": "94d301f4b042e16d",
-      "fromNode": "b079d5cd6fb64f1a",
-      "fromSide": "top",
-      "toNode": "d7484465221d311f",
-      "toSide": "bottom"
-    },
-    {
-      "id": "accd5ce6f5b55046",
-      "fromNode": "b079d5cd6fb64f1a",
-      "fromSide": "top",
-      "toNode": "2a7ccf349b4e8ae2",
-      "toSide": "bottom"
-    },
-    {
-      "id": "ae06dc7e6e7ff109",
-      "fromNode": "9124d1aa1fd6d50e",
-      "fromSide": "top",
-      "toNode": "ce39550ab6526396",
-      "toSide": "bottom"
-    },
-    {
-      "id": "72db9eac3a1f4e1a",
-      "fromNode": "9124d1aa1fd6d50e",
-      "fromSide": "top",
-      "toNode": "bc853cad8009ada2",
-      "toSide": "bottom"
-    },
-    {
-      "id": "012475ee124abd96",
-      "fromNode": "bc853cad8009ada2",
-      "fromSide": "top",
-      "toNode": "3947bcecf08d109e",
-      "toSide": "bottom"
-    },
-    {
-      "id": "b4f153afa43dd5e8",
-      "fromNode": "cf47443ecbaf982e",
-      "fromSide": "left",
-      "toNode": "7316e2105ac9cfb1",
-      "toSide": "top"
-    },
-    {
-      "id": "2a0b0db422c9c5fa",
-      "fromNode": "7ba5580523e14f2d",
-      "fromSide": "top",
-      "toNode": "3969d0ef51f13c94",
-      "toSide": "bottom"
-    },
-    {
-      "id": "cfd368255aad6eb9",
-      "fromNode": "0d573339942f073a",
-      "fromSide": "right",
-      "toNode": "9fa1122f68896565",
-      "toSide": "left"
-    },
-    {
-      "id": "695584daa10d5c05",
-      "fromNode": "ee97de1b9d018a2a",
-      "fromSide": "right",
-      "toNode": "9a46a428cf39f387",
-      "toSide": "left"
-    },
-    {
-      "id": "957f2902e93e2c98",
-      "fromNode": "a1b4bf67753640a5",
-      "fromSide": "right",
-      "toNode": "abbce8ae8695fb25",
-      "toSide": "left"
-    },
-    {
-      "id": "f4348a9a696e549a",
-      "fromNode": "ee97de1b9d018a2a",
-      "fromSide": "bottom",
-      "toNode": "aa031b3a01c1a737",
-      "toSide": "top"
-    },
-    {
-      "id": "ee17ab8ff8e4c5f5",
-      "fromNode": "3969d0ef51f13c94",
-      "fromSide": "top",
-      "toNode": "f31794889adb64f9",
-      "toSide": "bottom"
-    },
-    {
-      "id": "a124ba21001ef133",
-      "fromNode": "3969d0ef51f13c94",
-      "fromSide": "top",
-      "toNode": "7a8310d5dbee1bb5",
-      "toSide": "bottom"
-    },
-    {
-      "id": "34763af68fb004ec",
-      "fromNode": "9c73ae739e0b2491",
-      "fromSide": "top",
-      "toNode": "392c015f272a047d",
-      "toSide": "bottom"
-    },
-    {
-      "id": "eb7f50d8ac0b0e04",
-      "fromNode": "392c015f272a047d",
-      "fromSide": "top",
-      "toNode": "8e316664dc6c22e6",
-      "toSide": "bottom"
-    },
-    {
-      "id": "f02b3161e91bfc67",
-      "fromNode": "392c015f272a047d",
-      "fromSide": "top",
-      "toNode": "e6730451c65c6280",
-      "toSide": "bottom"
-    },
-    {
-      "id": "0cd603f2600f5e32",
-      "fromNode": "9124d1aa1fd6d50e",
-      "fromSide": "top",
-      "toNode": "2cb4f440fbdd1d87",
-      "toSide": "bottom"
-    },
-    {
-      "id": "b9d4341d8f2f748a",
-      "fromNode": "2cb4f440fbdd1d87",
-      "fromSide": "top",
-      "toNode": "9c73ae739e0b2491",
-      "toSide": "bottom"
-    },
-    {
-      "id": "ad4ca2707625d6b9",
-      "fromNode": "2cb4f440fbdd1d87",
-      "fromSide": "top",
-      "toNode": "b079d5cd6fb64f1a",
-      "toSide": "bottom"
-    },
-    {
-      "id": "2648145c9f7c705b",
-      "fromNode": "f06b3541cb6d28c6",
-      "fromSide": "left",
-      "toNode": "4e9f8206be86b27a",
-      "toSide": "right"
-    },
-    {
-      "id": "e8254f91e382ac41",
-      "fromNode": "7f0d6bcda336e550",
-      "fromSide": "bottom",
-      "toNode": "dbe70793eabcf87b",
-      "toSide": "top"
-    },
-    {
-      "id": "704ec869452a1ad7",
-      "fromNode": "246e61859ae62dd6",
-      "fromSide": "bottom",
-      "toNode": "f06b3541cb6d28c6",
-      "toSide": "top"
-    },
-    {
-      "id": "09841da250b983fe",
-      "fromNode": "392c015f272a047d",
-      "fromSide": "top",
-      "toNode": "db174d74b8fe2209",
-      "toSide": "bottom"
-    },
-    {
-      "id": "9dc8c809e02081c2",
-      "fromNode": "1508029a07d65114",
-      "fromSide": "right",
-      "toNode": "02ae95560c7953ee",
-      "toSide": "left"
-    },
-    {
-      "id": "3eec4ab28eb38e9d",
-      "fromNode": "1508029a07d65114",
-      "fromSide": "right",
-      "toNode": "5bb5f045b0686e9f",
-      "toSide": "top"
-    },
-    {
-      "id": "5c777bb22ef2cd64",
-      "fromNode": "7ba5580523e14f2d",
-      "fromSide": "top",
-      "toNode": "764d9a6574019895",
-      "toSide": "left"
-    },
-    {
-      "id": "c5b13a62ec6315da",
-      "fromNode": "7ba5580523e14f2d",
-      "fromSide": "top",
-      "toNode": "f20c64ef32255471",
-      "toSide": "left"
-    },
-    {
-      "id": "1fac24264aa6db92",
-      "fromNode": "7ba5580523e14f2d",
-      "fromSide": "top",
-      "toNode": "9f04d3a317c01cd6",
-      "toSide": "left"
-    },
-    {
-      "id": "dcaec9e86557c586",
-      "fromNode": "7ba5580523e14f2d",
-      "fromSide": "top",
-      "toNode": "f5819dcb9bb743ef",
-      "toSide": "left"
-    },
-    {
-      "id": "654ba7d98714981f",
-      "fromNode": "f5819dcb9bb743ef",
-      "fromSide": "right",
-      "toNode": "1508029a07d65114",
-      "toSide": "left"
-    },
-    {
-      "id": "1280fba7daf86899",
-      "fromNode": "f5819dcb9bb743ef",
-      "fromSide": "top",
-      "toNode": "93f81ce948947886",
-      "toSide": "left"
-    },
-    {
-      "id": "2906212618e85b12",
-      "fromNode": "c3aa06f3ab2baa9d",
-      "fromSide": "top",
-      "toNode": "a37a7aecd1a0b0ae",
-      "toSide": "bottom"
-    },
-    {
-      "id": "0caff5e71430c99f",
-      "fromNode": "ea9ca19b658779da",
-      "fromSide": "bottom",
-      "toNode": "a37a7aecd1a0b0ae",
-      "toSide": "top"
-    },
-    {
-      "id": "b307f981f8f45168",
-      "fromNode": "57f2f6e722568b1a",
-      "fromSide": "bottom",
-      "toNode": "cf47443ecbaf982e",
-      "toSide": "top"
-    },
-    {
-      "id": "65d0ffbeadc5f783",
-      "fromNode": "57f2f6e722568b1a",
-      "fromSide": "bottom",
-      "toNode": "14c338577b266a0d",
-      "toSide": "top"
-    },
-    {
-      "id": "b5a30b10563b166d",
-      "fromNode": "57f2f6e722568b1a",
-      "fromSide": "bottom",
-      "toNode": "6b01d262591c6225",
-      "toSide": "top"
-    },
-    {
-      "id": "51ee25f1295986a9",
-      "fromNode": "2a7567e5f95d5bf4",
-      "fromSide": "right",
-      "toNode": "e5b52a48f7501a8c",
-      "toSide": "left"
-    },
-    {
-      "id": "c2cbac3d6c971b33",
-      "fromNode": "2a7567e5f95d5bf4",
-      "fromSide": "right",
-      "toNode": "c1083be3297b89bf",
-      "toSide": "left"
-    },
-    {
-      "id": "6392c615c52b4e70",
-      "fromNode": "2a7567e5f95d5bf4",
-      "fromSide": "right",
-      "toNode": "03dc977450da06f1",
-      "toSide": "left"
-    },
-    {
-      "id": "b01ad7bd377a4e14",
-      "fromNode": "7ba5580523e14f2d",
-      "fromSide": "bottom",
-      "toNode": "bea7171b441eb317",
-      "toSide": "top"
-    },
-    {
-      "id": "5e5637d2b1b15290",
-      "fromNode": "bea7171b441eb317",
-      "fromSide": "right",
-      "toNode": "f03c0fd86bcf1926",
-      "toSide": "left"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{"id":"be895db2ad11c384","type":"group","x":760,"y":1680,"width":1724,"height":580,"color":"6","label":"5 Key concepts"},
+		{"id":"d0a650fc930f4388","type":"group","x":3060,"y":100,"width":1154,"height":500,"color":"4","label":"Fetching data"},
+		{"id":"a7565538ef104f4f","type":"group","x":1760,"y":-300,"width":509,"height":612,"color":"2","label":"JPA implementation"},
+		{"id":"9b8371a6bb4c1bab","type":"group","x":-1260,"y":-540,"width":460,"height":435,"color":"6","label":"FP in Java"},
+		{"id":"85ad61116b93a6ec","type":"group","x":3000,"y":840,"width":340,"height":423,"color":"#bff58a","label":"ACID"},
+		{"id":"1064d87a0958d7b6","type":"text","text":"Serialization","x":2138,"y":-1229,"width":260,"height":60},
+		{"id":"0f0b0049bfe716b9","type":"text","text":"ComponentScan","x":2115,"y":-1012,"width":250,"height":51},
+		{"id":"7ba5580523e14f2d","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Spring Framework.md","x":1200,"y":-1169,"width":420,"height":211},
+		{"id":"9c73ae739e0b2491","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Collection.md","x":-139,"y":-1322,"width":439,"height":186},
+		{"id":"b079d5cd6fb64f1a","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Map.md","x":471,"y":-1352,"width":369,"height":123},
+		{"id":"ce39550ab6526396","type":"text","text":"Concurrency","x":-466,"y":-1076,"width":260,"height":60},
+		{"id":"2a7ccf349b4e8ae2","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/TreeMap.md","x":664,"y":-1597,"width":356,"height":117},
+		{"id":"f31794889adb64f9","type":"text","text":"Specification","x":869,"y":-2418,"width":260,"height":60},
+		{"id":"7a8310d5dbee1bb5","type":"text","text":"Projection","x":1303,"y":-2418,"width":260,"height":60},
+		{"id":"3969d0ef51f13c94","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Spring Data JPA.md","x":949,"y":-1960,"width":354,"height":150},
+		{"id":"5bb5f045b0686e9f","type":"text","text":"Prototype","x":2987,"y":-1577,"width":250,"height":60},
+		{"id":"b230c726a26d1a1e","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/OSIV (Open Session In View).md","x":3103,"y":-1179,"width":405,"height":207},
+		{"id":"1508029a07d65114","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Beans.md","x":2432,"y":-1707,"width":375,"height":200},
+		{"id":"9f04d3a317c01cd6","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Inversion of Control.md","x":2307,"y":-1406,"width":375,"height":136},
+		{"id":"6c0c476c6d51b18e","type":"text","text":"Spring Boot\nIl fournit un uber jar qui contient l'application et les dépendances.","x":2432,"y":-1121,"width":275,"height":109},
+		{"id":"f5819dcb9bb743ef","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Core Container.md","x":1860,"y":-1657,"width":340,"height":160},
+		{"id":"8e316664dc6c22e6","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/HashSet.md","x":-983,"y":-2047,"width":370,"height":109},
+		{"id":"db174d74b8fe2209","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/LinkedHashSet.md","x":-1140,"y":-1744,"width":358,"height":147},
+		{"id":"392c015f272a047d","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Set.md","x":-668,"y":-1510,"width":403,"height":134},
+		{"id":"3947bcecf08d109e","type":"text","text":"Serialization","x":-928,"y":-1136,"width":260,"height":60},
+		{"id":"2aeb504e28bb7d9b","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/ArrayList.md","x":-537,"y":-2200,"width":317,"height":110},
+		{"id":"e6730451c65c6280","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/TreeSet.md","x":-601,"y":-1883,"width":381,"height":103},
+		{"id":"6a8e66ac2a15f3d2","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/LinkedList.md","x":-65,"y":-2248,"width":291,"height":128},
+		{"id":"1d391adbcd3a553b","type":"text","text":"ArrayDeque","x":405,"y":-2200,"width":250,"height":60},
+		{"id":"ea2df9b49fa7c550","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/List.md","x":-220,"y":-1721,"width":301,"height":124},
+		{"id":"d7484465221d311f","type":"text","text":"HashMap","x":327,"y":-1597,"width":250,"height":60},
+		{"id":"764d9a6574019895","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Aspect Oriented Programming.md","x":2013,"y":-2512,"width":385,"height":187},
+		{"id":"49482e55ddb11f4a","type":"text","text":"Spring proxies.\nProxy design pattern\nhappens at runtime","x":2580,"y":-2583,"width":250,"height":85},
+		{"id":"7e22152d2bf42037","type":"text","text":"Dequeu","x":155,"y":-1943,"width":250,"height":60},
+		{"id":"c4282bba6827342f","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Queue.md","x":155,"y":-1744,"width":250,"height":60},
+		{"id":"93f81ce948947886","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Context.md","x":2432,"y":-1947,"width":369,"height":195},
+		{"id":"02ae95560c7953ee","type":"text","text":"Singleton","x":3065,"y":-1802,"width":250,"height":50},
+		{"id":"f20c64ef32255471","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Dependency Injection.md","x":2092,"y":-2220,"width":431,"height":161},
+		{"id":"5bce49f73f52c7b3","type":"text","text":"CGLIB Proxies","x":2425,"y":-2783,"width":250,"height":50},
+		{"id":"9a52cbb44f374bdd","type":"text","text":"JDK Dynamic Proxies","x":2758,"y":-2783,"width":250,"height":50},
+		{"id":"00f324802719f3b9","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Eager Fetching.md","x":3080,"y":366,"width":388,"height":200},
+		{"id":"4ca220b7cd564730","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Lazy loading.md","x":3080,"y":120,"width":388,"height":186},
+		{"id":"8251d01c9f8b0686","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/images/Screenshot 2024-06-25 at 9.08.30 PM.png","x":3508,"y":123,"width":686,"height":446},
+		{"id":"3f1c4e0be22e3c51","type":"text","text":"JPQL","x":2716,"y":566,"width":260,"height":60},
+		{"id":"d291243ef0083a2c","type":"text","text":"# JAVA\nPOO language that is multi paradigm","isStartNode":false,"x":0,"y":136,"width":285,"height":104,"color":"3"},
+		{"id":"9a46a428cf39f387","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/images/Screenshot 2024-07-09 at 9.55.32 AM.png","x":3344,"y":-561,"width":560,"height":207},
+		{"id":"809d7faed661d797","type":"text","text":"Join fetch","x":3722,"y":-41,"width":158,"height":50},
+		{"id":"622b1d8c7ced4f9d","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/N+1 problem.md","x":3722,"y":-301,"width":472,"height":153},
+		{"id":"ee97de1b9d018a2a","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Persistence context.md","x":2720,"y":-496,"width":512,"height":256},
+		{"id":"aa031b3a01c1a737","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Persistence life cycle.md","x":2720,"y":-175,"width":512,"height":159},
+		{"id":"6a15b1d52f48856a","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Hibernate Cache.md","x":2215,"y":-584,"width":420,"height":176},
+		{"id":"5675171e03d5ed8a","type":"text","text":"Projection","x":2330,"y":496,"width":260,"height":60},
+		{"id":"84a782f94bcc7681","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Relationships.md","x":2332,"y":120,"width":460,"height":146},
+		{"id":"f03c0fd86bcf1926","type":"text","text":"Servlet","x":1787,"y":-622,"width":250,"height":60},
+		{"id":"0ca56baef2364a66","type":"text","text":"Integration Test","x":509,"y":576,"width":260,"height":60},
+		{"id":"dd22474aa020661d","type":"text","text":"Unit test","x":285,"y":480,"width":260,"height":60},
+		{"id":"e17774df731faa63","type":"text","text":"End to End","x":702,"y":480,"width":198,"height":60},
+		{"id":"caef5be0bbfab52e","type":"text","text":"Test","x":455,"y":280,"width":260,"height":60},
+		{"id":"c3aa06f3ab2baa9d","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/HashCode.md","x":-1816,"y":453,"width":395,"height":223},
+		{"id":"255aad49be740e76","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Object.md","x":-1143,"y":136,"width":303,"height":240},
+		{"id":"a37a7aecd1a0b0ae","type":"text","text":"# Contract\n\n- **Equality and Hashing**: If two objects are considered equal (`a.equals(b)` returns `true`), they must have the same hash code (`a.hashCode() == b.hashCode()`).\n- **Hashing and Collections**: Collections that use hashing (like `HashSet`, `HashMap`) rely on the hash code to place objects in buckets. If the hash codes of the objects differ, the collection assumes that the objects are different. If the hash codes are the same, the collection uses the `equals` method to distinguish the objects.","x":-1816,"y":180,"width":395,"height":152},
+		{"id":"e3e5cbc67609901d","type":"text","text":"# Bucket\nComposed of linked list\nif hashcode it always the same value we get just a big linkedlist.","x":-2480,"y":487,"width":360,"height":153},
+		{"id":"058e9250ab6dc1fa","type":"text","text":"Exceptions","x":-779,"y":376,"width":250,"height":60},
+		{"id":"354d0f9dc871f8de","type":"text","text":"Application Web","x":577,"y":128,"width":250,"height":60},
+		{"id":"06b9951d1ba94688","type":"text","text":"String","x":540,"y":-612,"width":250,"height":50},
+		{"id":"0d573339942f073a","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Java Persistence API (JPA).md","x":1074,"y":-25,"width":443,"height":232},
+		{"id":"7ee9319a9e44693e","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/EclipseLink.md","x":1787,"y":12,"width":462,"height":143},
+		{"id":"9fa1122f68896565","type":"text","text":"# Open JPA","x":1787,"y":199,"width":462,"height":73},
+		{"id":"74085217199c5ec3","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Hibernate.md","isStartNode":false,"x":1780,"y":-280,"width":469,"height":247},
+		{"id":"9124d1aa1fd6d50e","type":"file","file":"Java APIs.md","x":-35,"y":-362,"width":361,"height":221},
+		{"id":"f0d125d4b064c45a","type":"file","file":"Functional programming.md","isStartNode":false,"x":-646,"y":-325,"width":446,"height":220},
+		{"id":"01e77dec720d2f8e","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Streams.md","x":-583,"y":-562,"width":321,"height":131},
+		{"id":"bea7171b441eb317","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Spring MVC.md","x":1245,"y":-753,"width":375,"height":191},
+		{"id":"a1b4bf67753640a5","type":"text","text":"# @Transactional\nOpen a session\nConnaitre les options: readonly, les scopes","x":3620,"y":-871,"width":284,"height":98},
+		{"id":"abbce8ae8695fb25","type":"text","text":"Propagation\nhttps://www.baeldung.com/spring-transactional-propagation-isolation","x":4111,"y":-849,"width":349,"height":129},
+		{"id":"2f928274f20622ff","type":"text","text":"Intermediate Operations","x":-1098,"y":-676,"width":250,"height":60},
+		{"id":"157eb734c466867b","type":"text","text":"Lambda expression","x":-1240,"y":-412,"width":267,"height":50},
+		{"id":"8222d1ef18e90f1f","type":"text","text":"Functional Interface","x":-1240,"y":-496,"width":267,"height":53},
+		{"id":"31d3e21f188376be","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Pure Function.md","x":-1240,"y":-329,"width":400,"height":194},
+		{"id":"ea9ca19b658779da","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Equals.md","x":-1816,"y":-169,"width":395,"height":243},
+		{"id":"4cc5065f1ba9f6b3","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Java Versions and features.md","x":459,"y":-314,"width":360,"height":158},
+		{"id":"1697a51eae2baabc","type":"text","text":"# Paradigm\nProgramming paradigm is **an approach to solve problem** using some programming language or also we can say it is a method to solve a problem using tools and techniques that are available to us","x":-928,"y":-33,"width":367,"height":128},
+		{"id":"cc50a4b00c4e454c","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/EntityManager.md","x":3041,"y":-822,"width":382,"height":142},
+		{"id":"d1885ee73ba5f60a","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Session.md","x":2660,"y":-822,"width":340,"height":142},
+		{"id":"2cb4f440fbdd1d87","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/The Collections Framework.md","x":81,"y":-875,"width":402,"height":174},
+		{"id":"bc853cad8009ada2","type":"text","text":"IO","x":-583,"y":-875,"width":260,"height":60},
+		{"id":"0e5f5223fcd1f0e0","type":"text","text":"Terminal operations","x":-1098,"y":-801,"width":250,"height":60},
+		{"id":"5b9ea40a7b88a998","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Atomicity.md","x":3036,"y":866,"width":260,"height":60},
+		{"id":"e5b52a48f7501a8c","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Consistency.md","x":3036,"y":973,"width":260,"height":56},
+		{"id":"c1083be3297b89bf","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Isolation.md","x":3036,"y":1076,"width":260,"height":50},
+		{"id":"03dc977450da06f1","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Durability.md","x":3036,"y":1173,"width":260,"height":60},
+		{"id":"3d22b4e1ae4ba0b6","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Hypermedia.md","x":2040,"y":1752,"width":352,"height":148},
+		{"id":"cf47443ecbaf982e","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Identifiable resources.md","x":812,"y":1760,"width":385,"height":140},
+		{"id":"7316e2105ac9cfb1","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/URI.md","x":132,"y":1957,"width":388,"height":114},
+		{"id":"f06b3541cb6d28c6","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Java Virtual Machine.md","x":-886,"y":1509,"width":349,"height":168},
+		{"id":"4e9f8206be86b27a","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Just In Time (JIT).md","x":-1486,"y":1527,"width":400,"height":191},
+		{"id":"9452957afc878a35","type":"text","text":"Jointures","x":2695,"y":685,"width":260,"height":60},
+		{"id":"6b01d262591c6225","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Standardized interface.md","x":1004,"y":2014,"width":364,"height":168},
+		{"id":"a124f1199b7d8b43","type":"text","text":"# Stateless\nEach request contains all the information needed for the server to process it, with no client state stored on the server.\n\n**Make the app scalable**. Requires only a front-end load balancer.\n**Favors low coupling**: Session concept cannot be shared.\n\nThe advantage of stateles is that it makes it easier to replicate servers, since no data is saved in RAM. **Allows easy horizontal scaling (server replication)**.","x":1380,"y":2014,"width":380,"height":168},
+		{"id":"14c338577b266a0d","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Resource representation.md","x":1816,"y":2014,"width":400,"height":168},
+		{"id":"aaef624b0c2b3178","type":"text","text":"CraftmasnShip","x":2083,"y":1359,"width":250,"height":60},
+		{"id":"345946ea31de9ae7","type":"text","text":"Database","x":1892,"y":819,"width":250,"height":60},
+		{"id":"235b33ac4f466708","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Garbage Collector.md","x":-757,"y":1900,"width":397,"height":171},
+		{"id":"c92381fbf552a44c","type":"text","text":"Xmx, Xms","x":-1286,"y":2071,"width":250,"height":60},
+		{"id":"20daa1845a695932","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Heap and Stack.md","x":-711,"y":2223,"width":405,"height":195},
+		{"id":"5e9584ab70418ad8","type":"text","text":"YAGNI, KISS, DRY","x":2561,"y":1329,"width":250,"height":60},
+		{"id":"16a178d3813c653b","type":"text","text":"Extreme programming","x":2530,"y":1474,"width":250,"height":60},
+		{"id":"ef0e8ddbd5bfbbde","type":"text","text":"SOLID","x":2510,"y":1233,"width":250,"height":60},
+		{"id":"2a7567e5f95d5bf4","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Transaction.md","x":2340,"y":935,"width":384,"height":163},
+		{"id":"902b06a7ab8f4ea7","type":"text","text":"SQL","isStartNode":false,"x":2260,"y":670,"width":250,"height":60},
+		{"id":"d79dfad5ee52f273","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Encapsulation.md","x":567,"y":1336,"width":404,"height":166},
+		{"id":"b5965273e06b90c7","type":"text","text":"SpringTestContainerContext","x":509,"y":732,"width":260,"height":60},
+		{"id":"b71427b2720376b8","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Object Oriented Programming.md","x":-5,"y":747,"width":290,"height":84},
+		{"id":"3f247c5173e52e24","type":"file","file":"00 - Boîte de récéption/Abstraction.md","x":-39,"y":1410,"width":359,"height":113},
+		{"id":"c06fdf5464d73b96","type":"text","text":"Class","x":480,"y":975,"width":250,"height":60},
+		{"id":"40952038b937e5b6","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Inheritance.md","x":-290,"y":1035,"width":380,"height":145},
+		{"id":"56ba8aa769f51380","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Polymorphism.md","x":180,"y":1164,"width":348,"height":145},
+		{"id":"c6af42ee125c8fc9","type":"text","text":"Checked","x":-1033,"y":504,"width":250,"height":60},
+		{"id":"2b6ee043b8e4cbb9","type":"text","text":"NoSQL","isStartNode":false,"x":2385,"y":762,"width":250,"height":60},
+		{"id":"57f2f6e722568b1a","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/REST.md","x":1294,"y":1222,"width":446,"height":175},
+		{"id":"dbe70793eabcf87b","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Java Compiler.md","x":-1333,"y":1144,"width":342,"height":185},
+		{"id":"246e61859ae62dd6","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Java Runtime Environment.md","x":-886,"y":1144,"width":368,"height":185},
+		{"id":"7f0d6bcda336e550","type":"file","file":"03 - Ressources/Ingénierie/Takima/Java/Java Development Kit (JDK).md","x":-1040,"y":732,"width":374,"height":174},
+		{"id":"723b835a35f60050","type":"text","text":"Runtime (Unchecked)","x":-654,"y":509,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2d5a9e165ba34a42","fromNode":"d291243ef0083a2c","fromSide":"right","toNode":"354d0f9dc871f8de","toSide":"left","color":"3"},
+		{"id":"4c8c279a329d9e44","fromNode":"354d0f9dc871f8de","fromSide":"right","toNode":"7ba5580523e14f2d","toSide":"left"},
+		{"id":"370f439a164bf26d","fromNode":"354d0f9dc871f8de","fromSide":"right","toNode":"0d573339942f073a","toSide":"left"},
+		{"id":"5b591330875dbee7","fromNode":"354d0f9dc871f8de","fromSide":"right","toNode":"345946ea31de9ae7","toSide":"left"},
+		{"id":"ad87886eb8f75edf","fromNode":"354d0f9dc871f8de","fromSide":"right","toNode":"aaef624b0c2b3178","toSide":"left"},
+		{"id":"ddd2ed17ac309136","fromNode":"354d0f9dc871f8de","fromSide":"right","toNode":"57f2f6e722568b1a","toSide":"top"},
+		{"id":"84062582343953af","fromNode":"aaef624b0c2b3178","fromSide":"right","toNode":"ef0e8ddbd5bfbbde","toSide":"left"},
+		{"id":"033af50105d3b385","fromNode":"aaef624b0c2b3178","fromSide":"right","toNode":"5e9584ab70418ad8","toSide":"left"},
+		{"id":"c5bd7f7d1c0b0ff8","fromNode":"aaef624b0c2b3178","fromSide":"right","toNode":"16a178d3813c653b","toSide":"left"},
+		{"id":"ca5b1f93f658d7be","fromNode":"345946ea31de9ae7","fromSide":"right","toNode":"902b06a7ab8f4ea7","toSide":"left"},
+		{"id":"830ac8882b1ddde7","fromNode":"345946ea31de9ae7","fromSide":"right","toNode":"2b6ee043b8e4cbb9","toSide":"left"},
+		{"id":"7011e7a33d217fe2","fromNode":"345946ea31de9ae7","fromSide":"right","toNode":"2a7567e5f95d5bf4","toSide":"left"},
+		{"id":"43738ef50544489d","fromNode":"0d573339942f073a","fromSide":"right","toNode":"74085217199c5ec3","toSide":"left"},
+		{"id":"0c756f0563b12cc8","fromNode":"7ba5580523e14f2d","fromSide":"right","toNode":"6c0c476c6d51b18e","toSide":"left"},
+		{"id":"b321d4cdd6992823","fromNode":"7ba5580523e14f2d","fromSide":"right","toNode":"0f0b0049bfe716b9","toSide":"left"},
+		{"id":"69a8b834433a9d20","fromNode":"764d9a6574019895","fromSide":"right","toNode":"49482e55ddb11f4a","toSide":"left"},
+		{"id":"1cab6bed999eeb2b","fromNode":"235b33ac4f466708","fromSide":"left","toNode":"c92381fbf552a44c","toSide":"top"},
+		{"id":"1a9162c7680dc521","fromNode":"f06b3541cb6d28c6","fromSide":"bottom","toNode":"235b33ac4f466708","toSide":"top"},
+		{"id":"3e2c1ede301bf395","fromNode":"235b33ac4f466708","fromSide":"bottom","toNode":"20daa1845a695932","toSide":"top"},
+		{"id":"ed9174dade955bf1","fromNode":"d291243ef0083a2c","fromSide":"bottom","toNode":"058e9250ab6dc1fa","toSide":"top","color":"3"},
+		{"id":"3cb4db51243f2337","fromNode":"058e9250ab6dc1fa","fromSide":"bottom","toNode":"c6af42ee125c8fc9","toSide":"top"},
+		{"id":"51c1fa182b19aa8d","fromNode":"058e9250ab6dc1fa","fromSide":"bottom","toNode":"723b835a35f60050","toSide":"top"},
+		{"id":"8a30cc6b022bd6e2","fromNode":"d291243ef0083a2c","fromSide":"left","toNode":"255aad49be740e76","toSide":"right","color":"3"},
+		{"id":"2063beb992dc6642","fromNode":"255aad49be740e76","fromSide":"left","toNode":"ea9ca19b658779da","toSide":"right"},
+		{"id":"cf89131b5b890c56","fromNode":"255aad49be740e76","fromSide":"left","toNode":"c3aa06f3ab2baa9d","toSide":"right"},
+		{"id":"082893981f2e3e6f","fromNode":"c3aa06f3ab2baa9d","fromSide":"left","toNode":"e3e5cbc67609901d","toSide":"right"},
+		{"id":"01038c1b96ac3a15","fromNode":"d291243ef0083a2c","fromSide":"top","toNode":"9124d1aa1fd6d50e","toSide":"bottom","color":"3"},
+		{"id":"ab816913934c8501","fromNode":"9124d1aa1fd6d50e","fromSide":"left","toNode":"01e77dec720d2f8e","toSide":"right"},
+		{"id":"be7c3c5dbb15a371","fromNode":"9124d1aa1fd6d50e","fromSide":"right","toNode":"06b9951d1ba94688","toSide":"left"},
+		{"id":"9df61ae342075d42","fromNode":"9c73ae739e0b2491","fromSide":"top","toNode":"ea2df9b49fa7c550","toSide":"bottom"},
+		{"id":"22400509c8653eac","fromNode":"9c73ae739e0b2491","fromSide":"top","toNode":"c4282bba6827342f","toSide":"bottom"},
+		{"id":"455501d7985e22c4","fromNode":"ea2df9b49fa7c550","fromSide":"top","toNode":"2aeb504e28bb7d9b","toSide":"bottom"},
+		{"id":"89f73453f9eea16d","fromNode":"ea2df9b49fa7c550","fromSide":"top","toNode":"6a8e66ac2a15f3d2","toSide":"bottom"},
+		{"id":"8ab80885a0b1b71f","fromNode":"c4282bba6827342f","fromSide":"top","toNode":"7e22152d2bf42037","toSide":"bottom"},
+		{"id":"f6e203749fbd7e81","fromNode":"7e22152d2bf42037","fromSide":"top","toNode":"6a8e66ac2a15f3d2","toSide":"bottom"},
+		{"id":"e1000be18b21bf1b","fromNode":"7e22152d2bf42037","fromSide":"top","toNode":"1d391adbcd3a553b","toSide":"bottom"},
+		{"id":"d871855ac6600f01","fromNode":"b71427b2720376b8","fromSide":"bottom","toNode":"c06fdf5464d73b96","toSide":"top"},
+		{"id":"18dacc215251de62","fromNode":"b71427b2720376b8","fromSide":"bottom","toNode":"40952038b937e5b6","toSide":"top"},
+		{"id":"8afb2a6d0eda69d2","fromNode":"b71427b2720376b8","fromSide":"bottom","toNode":"56ba8aa769f51380","toSide":"top"},
+		{"id":"9b8e94c762a4e2dc","fromNode":"b71427b2720376b8","fromSide":"bottom","toNode":"3f247c5173e52e24","toSide":"top"},
+		{"id":"3c4d43dcfb89aa35","fromNode":"74085217199c5ec3","fromSide":"right","toNode":"aa031b3a01c1a737","toSide":"left"},
+		{"id":"32288d9eb9a6cd35","fromNode":"49482e55ddb11f4a","fromSide":"top","toNode":"9a52cbb44f374bdd","toSide":"bottom"},
+		{"id":"147ecd3533910b10","fromNode":"0d573339942f073a","fromSide":"right","toNode":"7ee9319a9e44693e","toSide":"left"},
+		{"id":"0f7ac16b2404d3da","fromNode":"49482e55ddb11f4a","fromSide":"top","toNode":"5bce49f73f52c7b3","toSide":"bottom"},
+		{"id":"cd52a344cca41857","fromNode":"01e77dec720d2f8e","fromSide":"left","toNode":"0e5f5223fcd1f0e0","toSide":"right"},
+		{"id":"6e9b3961722ab40f","fromNode":"01e77dec720d2f8e","fromSide":"left","toNode":"2f928274f20622ff","toSide":"right"},
+		{"id":"5c1103d97c86cc97","fromNode":"d291243ef0083a2c","fromSide":"right","toNode":"4cc5065f1ba9f6b3","toSide":"left","color":"3"},
+		{"id":"5c69ef7bf15d32f5","fromNode":"57f2f6e722568b1a","fromSide":"bottom","toNode":"3d22b4e1ae4ba0b6","toSide":"top"},
+		{"id":"6aab3935eb10ef70","fromNode":"57f2f6e722568b1a","fromSide":"bottom","toNode":"a124f1199b7d8b43","toSide":"top"},
+		{"id":"4e2b3c4944052a7d","fromNode":"2a7567e5f95d5bf4","fromSide":"right","toNode":"5b9ea40a7b88a998","toSide":"left"},
+		{"id":"a2c13acd18a865b2","fromNode":"d291243ef0083a2c","fromSide":"top","toNode":"f0d125d4b064c45a","toSide":"bottom","color":"3"},
+		{"id":"2dd7225f4ea02729","fromNode":"7ba5580523e14f2d","fromSide":"right","toNode":"1064d87a0958d7b6","toSide":"left"},
+		{"id":"3f5a5f8c05b96120","fromNode":"f0d125d4b064c45a","fromSide":"top","toNode":"01e77dec720d2f8e","toSide":"bottom"},
+		{"id":"7a08d1bd0b1540fc","fromNode":"b71427b2720376b8","fromSide":"bottom","toNode":"d79dfad5ee52f273","toSide":"top"},
+		{"id":"a27491366cc51b24","fromNode":"d291243ef0083a2c","fromSide":"bottom","toNode":"b71427b2720376b8","toSide":"top","color":"3"},
+		{"id":"c41be32aeb7de7d8","fromNode":"f0d125d4b064c45a","fromSide":"left","toNode":"1697a51eae2baabc","toSide":"top"},
+		{"id":"e30dbc89d3935851","fromNode":"f0d125d4b064c45a","fromSide":"left","toNode":"157eb734c466867b","toSide":"right"},
+		{"id":"c48f59ebf446ad7c","fromNode":"f0d125d4b064c45a","fromSide":"left","toNode":"31d3e21f188376be","toSide":"right"},
+		{"id":"372c897004ac45f2","fromNode":"f0d125d4b064c45a","fromSide":"left","toNode":"8222d1ef18e90f1f","toSide":"right"},
+		{"id":"5b54b970edaeaf6d","fromNode":"74085217199c5ec3","fromSide":"top","toNode":"6a15b1d52f48856a","toSide":"left"},
+		{"id":"a2c2bc17e0cafeea","fromNode":"74085217199c5ec3","fromSide":"right","toNode":"ee97de1b9d018a2a","toSide":"left"},
+		{"id":"4ffac330835c2cfe","fromNode":"74085217199c5ec3","fromSide":"right","toNode":"84a782f94bcc7681","toSide":"top"},
+		{"id":"85ff46a48f7f3564","fromNode":"ee97de1b9d018a2a","fromSide":"top","toNode":"cc50a4b00c4e454c","toSide":"bottom"},
+		{"id":"33eaea7eb284706f","fromNode":"84a782f94bcc7681","fromSide":"right","toNode":"4ca220b7cd564730","toSide":"left"},
+		{"id":"35a3d2e7e17db10b","fromNode":"84a782f94bcc7681","fromSide":"right","toNode":"00f324802719f3b9","toSide":"left"},
+		{"id":"01afacf205fbc14a","fromNode":"d0a650fc930f4388","fromSide":"top","toNode":"622b1d8c7ced4f9d","toSide":"left"},
+		{"id":"b88f3e204f975227","fromNode":"d0a650fc930f4388","fromSide":"top","toNode":"809d7faed661d797","toSide":"left"},
+		{"id":"c4dba06f4eb2f36d","fromNode":"d291243ef0083a2c","fromSide":"bottom","toNode":"7f0d6bcda336e550","toSide":"right","color":"3"},
+		{"id":"936bb1aff7bc30cd","fromNode":"354d0f9dc871f8de","fromSide":"bottom","toNode":"caef5be0bbfab52e","toSide":"top"},
+		{"id":"ae2342b6f777d190","fromNode":"cc50a4b00c4e454c","fromSide":"top","toNode":"b230c726a26d1a1e","toSide":"bottom"},
+		{"id":"5c3040dc5ee34746","fromNode":"902b06a7ab8f4ea7","fromSide":"top","toNode":"5675171e03d5ed8a","toSide":"bottom"},
+		{"id":"657142e227985fc0","fromNode":"902b06a7ab8f4ea7","fromSide":"right","toNode":"3f1c4e0be22e3c51","toSide":"left"},
+		{"id":"475f74deafe86c41","fromNode":"902b06a7ab8f4ea7","fromSide":"right","toNode":"9452957afc878a35","toSide":"left"},
+		{"id":"b0d986d6831bcb6c","fromNode":"caef5be0bbfab52e","fromSide":"bottom","toNode":"dd22474aa020661d","toSide":"top"},
+		{"id":"da764d96cf09443e","fromNode":"caef5be0bbfab52e","fromSide":"bottom","toNode":"0ca56baef2364a66","toSide":"top"},
+		{"id":"a6a4c9ed4de05346","fromNode":"caef5be0bbfab52e","fromSide":"bottom","toNode":"e17774df731faa63","toSide":"top"},
+		{"id":"679d3274d20d5c0f","fromNode":"0ca56baef2364a66","fromSide":"bottom","toNode":"b5965273e06b90c7","toSide":"top"},
+		{"id":"e4f69f00c3e2cef2","fromNode":"ee97de1b9d018a2a","fromSide":"top","toNode":"d1885ee73ba5f60a","toSide":"bottom"},
+		{"id":"db63762b4cbff758","fromNode":"cc50a4b00c4e454c","fromSide":"right","toNode":"a1b4bf67753640a5","toSide":"left"},
+		{"id":"4cd20d89e75d9304","fromNode":"7f0d6bcda336e550","fromSide":"bottom","toNode":"246e61859ae62dd6","toSide":"top"},
+		{"id":"94d301f4b042e16d","fromNode":"b079d5cd6fb64f1a","fromSide":"top","toNode":"d7484465221d311f","toSide":"bottom"},
+		{"id":"accd5ce6f5b55046","fromNode":"b079d5cd6fb64f1a","fromSide":"top","toNode":"2a7ccf349b4e8ae2","toSide":"bottom"},
+		{"id":"ae06dc7e6e7ff109","fromNode":"9124d1aa1fd6d50e","fromSide":"top","toNode":"ce39550ab6526396","toSide":"bottom"},
+		{"id":"72db9eac3a1f4e1a","fromNode":"9124d1aa1fd6d50e","fromSide":"top","toNode":"bc853cad8009ada2","toSide":"bottom"},
+		{"id":"012475ee124abd96","fromNode":"bc853cad8009ada2","fromSide":"top","toNode":"3947bcecf08d109e","toSide":"bottom"},
+		{"id":"b4f153afa43dd5e8","fromNode":"cf47443ecbaf982e","fromSide":"left","toNode":"7316e2105ac9cfb1","toSide":"top"},
+		{"id":"2a0b0db422c9c5fa","fromNode":"7ba5580523e14f2d","fromSide":"top","toNode":"3969d0ef51f13c94","toSide":"bottom"},
+		{"id":"cfd368255aad6eb9","fromNode":"0d573339942f073a","fromSide":"right","toNode":"9fa1122f68896565","toSide":"left"},
+		{"id":"695584daa10d5c05","fromNode":"ee97de1b9d018a2a","fromSide":"right","toNode":"9a46a428cf39f387","toSide":"left"},
+		{"id":"957f2902e93e2c98","fromNode":"a1b4bf67753640a5","fromSide":"right","toNode":"abbce8ae8695fb25","toSide":"left"},
+		{"id":"f4348a9a696e549a","fromNode":"ee97de1b9d018a2a","fromSide":"bottom","toNode":"aa031b3a01c1a737","toSide":"top"},
+		{"id":"ee17ab8ff8e4c5f5","fromNode":"3969d0ef51f13c94","fromSide":"top","toNode":"f31794889adb64f9","toSide":"bottom"},
+		{"id":"a124ba21001ef133","fromNode":"3969d0ef51f13c94","fromSide":"top","toNode":"7a8310d5dbee1bb5","toSide":"bottom"},
+		{"id":"34763af68fb004ec","fromNode":"9c73ae739e0b2491","fromSide":"top","toNode":"392c015f272a047d","toSide":"bottom"},
+		{"id":"eb7f50d8ac0b0e04","fromNode":"392c015f272a047d","fromSide":"top","toNode":"8e316664dc6c22e6","toSide":"bottom"},
+		{"id":"f02b3161e91bfc67","fromNode":"392c015f272a047d","fromSide":"top","toNode":"e6730451c65c6280","toSide":"bottom"},
+		{"id":"0cd603f2600f5e32","fromNode":"9124d1aa1fd6d50e","fromSide":"top","toNode":"2cb4f440fbdd1d87","toSide":"bottom"},
+		{"id":"b9d4341d8f2f748a","fromNode":"2cb4f440fbdd1d87","fromSide":"top","toNode":"9c73ae739e0b2491","toSide":"bottom"},
+		{"id":"ad4ca2707625d6b9","fromNode":"2cb4f440fbdd1d87","fromSide":"top","toNode":"b079d5cd6fb64f1a","toSide":"bottom"},
+		{"id":"2648145c9f7c705b","fromNode":"f06b3541cb6d28c6","fromSide":"left","toNode":"4e9f8206be86b27a","toSide":"right"},
+		{"id":"e8254f91e382ac41","fromNode":"7f0d6bcda336e550","fromSide":"bottom","toNode":"dbe70793eabcf87b","toSide":"top"},
+		{"id":"704ec869452a1ad7","fromNode":"246e61859ae62dd6","fromSide":"bottom","toNode":"f06b3541cb6d28c6","toSide":"top"},
+		{"id":"09841da250b983fe","fromNode":"392c015f272a047d","fromSide":"top","toNode":"db174d74b8fe2209","toSide":"bottom"},
+		{"id":"9dc8c809e02081c2","fromNode":"1508029a07d65114","fromSide":"right","toNode":"02ae95560c7953ee","toSide":"left"},
+		{"id":"3eec4ab28eb38e9d","fromNode":"1508029a07d65114","fromSide":"right","toNode":"5bb5f045b0686e9f","toSide":"top"},
+		{"id":"5c777bb22ef2cd64","fromNode":"7ba5580523e14f2d","fromSide":"top","toNode":"764d9a6574019895","toSide":"left"},
+		{"id":"c5b13a62ec6315da","fromNode":"7ba5580523e14f2d","fromSide":"top","toNode":"f20c64ef32255471","toSide":"left"},
+		{"id":"1fac24264aa6db92","fromNode":"7ba5580523e14f2d","fromSide":"top","toNode":"9f04d3a317c01cd6","toSide":"left"},
+		{"id":"dcaec9e86557c586","fromNode":"7ba5580523e14f2d","fromSide":"top","toNode":"f5819dcb9bb743ef","toSide":"left"},
+		{"id":"654ba7d98714981f","fromNode":"f5819dcb9bb743ef","fromSide":"right","toNode":"1508029a07d65114","toSide":"left"},
+		{"id":"1280fba7daf86899","fromNode":"f5819dcb9bb743ef","fromSide":"top","toNode":"93f81ce948947886","toSide":"left"},
+		{"id":"2906212618e85b12","fromNode":"c3aa06f3ab2baa9d","fromSide":"top","toNode":"a37a7aecd1a0b0ae","toSide":"bottom"},
+		{"id":"0caff5e71430c99f","fromNode":"ea9ca19b658779da","fromSide":"bottom","toNode":"a37a7aecd1a0b0ae","toSide":"top"},
+		{"id":"b307f981f8f45168","fromNode":"57f2f6e722568b1a","fromSide":"bottom","toNode":"cf47443ecbaf982e","toSide":"top"},
+		{"id":"65d0ffbeadc5f783","fromNode":"57f2f6e722568b1a","fromSide":"bottom","toNode":"14c338577b266a0d","toSide":"top"},
+		{"id":"b5a30b10563b166d","fromNode":"57f2f6e722568b1a","fromSide":"bottom","toNode":"6b01d262591c6225","toSide":"top"},
+		{"id":"51ee25f1295986a9","fromNode":"2a7567e5f95d5bf4","fromSide":"right","toNode":"e5b52a48f7501a8c","toSide":"left"},
+		{"id":"c2cbac3d6c971b33","fromNode":"2a7567e5f95d5bf4","fromSide":"right","toNode":"c1083be3297b89bf","toSide":"left"},
+		{"id":"6392c615c52b4e70","fromNode":"2a7567e5f95d5bf4","fromSide":"right","toNode":"03dc977450da06f1","toSide":"left"},
+		{"id":"b01ad7bd377a4e14","fromNode":"7ba5580523e14f2d","fromSide":"bottom","toNode":"bea7171b441eb317","toSide":"top"},
+		{"id":"5e5637d2b1b15290","fromNode":"bea7171b441eb317","fromSide":"right","toNode":"f03c0fd86bcf1926","toSide":"left"}
+	],
+	"metadata":{}
 }

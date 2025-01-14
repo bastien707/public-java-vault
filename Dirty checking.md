@@ -1,0 +1,3 @@
+ - Process of **comparing current entity state to the initial snapshot** 
+ - Used to detect which entities have been modified and need to be updated in the database.
+ - The developer does not need to explicitly tell it need to be updated

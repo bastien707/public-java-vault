@@ -1,0 +1,2 @@
+- A thread is a **unit of execution**
+- Has its own stack and shared heap

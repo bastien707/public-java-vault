@@ -1,0 +1,1 @@
+Processus of integration of the aspect to the business code

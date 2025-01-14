@@ -1,0 +1,3 @@
+**Eager Fetching** is a fetching strategy where **related data is loaded immediately along with the primary entity**. This approach can simplify data access patterns at the cost of potentially loading more data than necessary.
+
+The drawbacks are **fetching unnecessary data** which impact the performance  and the **cascade fetching**.  For example, fetching a User entity might also fetch all related Orders, which in turn fetch all related OrderItems, and so on.

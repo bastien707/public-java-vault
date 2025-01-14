@@ -1,0 +1,1 @@
+Keycloak est une solution open source de **gestion d'identité** **et d'accès (IAM)** qui implémente les protocoles [[OAuth|OAuth 2.0]] et OpenID Connect. Il peut servir d'**authorization server**.

@@ -1,0 +1,3 @@
+- Class loader are parts of the [[Java Runtime Environment|JRE]]
+- When the [[Java Virtual Machine|JVM]] requests a class the class loader tries to locate the class and load the class definition into the runtime
+- `java.lang.ClassLoader.loadClass()` is responsible of loading the class definition into runtime.

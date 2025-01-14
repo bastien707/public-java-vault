@@ -1,0 +1,1 @@
+Ensures that all operations within the transaction are completed successfully. If any operation fails, the entire transaction is rolled back, leaving the database in its original state.

@@ -1,0 +1,3 @@
+- MultiThreading is a model that **allows existance of multiple thread that share same memory space**
+- Enable parallel execution
+- Introduce concurrency issues

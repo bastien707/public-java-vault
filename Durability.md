@@ -1,0 +1,1 @@
+Ensures that once a transaction has been committed, its changes are permanent and persist even in the case of a system failure.

@@ -1,0 +1,1 @@
+List interface in Java is an **ordered collection** of elements. It **maintains the insertion order** and **allows duplicate** values to be stored within.

@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "45dd2b3dd09f8b51",
+    "type": "split",
+    "children": [
+      {
+        "id": "a04c4da1fc6bdf57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80dc6d7096b3fcce",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Java World.canvas",
+                "viewState": {
+                  "x": 6189.479505261231,
+                  "y": -5312.089031487744,
+                  "zoom": -3.293333333333329
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Java World"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d973e737bab1913",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd87d243119889a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4112036751e6dcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8834a510738bdc61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4569459945c6e72b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "745ea8e2861e802e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c8f1f6bb950070c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a77e325fec04af4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bean Life Cycle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bean Life Cycle"
+            }
+          },
+          {
+            "id": "dff0366a4308956f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bean Life Cycle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bean Life Cycle"
+            }
+          },
+          {
+            "id": "43f10ac85325dfd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d2142d4cbfaaba1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bean Life Cycle.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bean Life Cycle"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "80dc6d7096b3fcce",
+  "lastOpenFiles": [
+    "Java Virtual Machine.md",
+    "Bean Life Cycle.md",
+    "Bucket 🪣.md",
+    "Content Negociation.md",
+    "Consistency.md",
+    "CGLib Proxies.md",
+    "images/Pasted image 20250114103747.png",
+    "images/Pasted image 20241109223108.png",
+    "images/Pasted image 20241109223007.png",
+    "images/Pasted image 20241109201947.png",
+    "images/Pasted image 20240731102840.png",
+    "images/Pasted image 20240727222500.png",
+    "images/Pasted image 20240728103036.png",
+    "images/Pasted image 20240727190820.png",
+    "images/Pasted image 20240727194702.png",
+    "images/Pasted image 20240725165343.png",
+    "excalidraw/Volatile_keyword_java.excalidraw.md",
+    "Java Runtime Environment.md",
+    "Java Versions and features.md",
+    "Java World.canvas"
+  ]
+}

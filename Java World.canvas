@@ -11,6 +11,17 @@
 			"label":"Project management"
 		},
 		{
+			"id":"f0c538b2890cd7fc",
+			"type":"group",
+			"styleAttributes":{},
+			"x":7374,
+			"y":4550,
+			"width":1806,
+			"height":795,
+			"color":"#ada0ee",
+			"label":"Desgin Pattern 👨‍🎨"
+		},
+		{
 			"id":"be895db2ad11c384",
 			"type":"group",
 			"styleAttributes":{},
@@ -33,15 +44,15 @@
 			"label":"SOLID"
 		},
 		{
-			"id":"d0a650fc930f4388",
+			"id":"4a1f14762ec3f2af",
 			"type":"group",
 			"styleAttributes":{},
-			"x":10740,
-			"y":-1948,
-			"width":1200,
-			"height":520,
-			"color":"4",
-			"label":"Fetching data"
+			"x":3280,
+			"y":-7840,
+			"width":1141,
+			"height":280,
+			"color":"#e2acac",
+			"label":"Aspect"
 		},
 		{
 			"id":"a7565538ef104f4f",
@@ -55,39 +66,6 @@
 			"label":"JPA implementation"
 		},
 		{
-			"id":"f0c538b2890cd7fc",
-			"type":"group",
-			"styleAttributes":{},
-			"x":7374,
-			"y":4550,
-			"width":1806,
-			"height":795,
-			"color":"#ada0ee",
-			"label":"Desgin Pattern 👨‍🎨"
-		},
-		{
-			"id":"4a1f14762ec3f2af",
-			"type":"group",
-			"styleAttributes":{},
-			"x":3280,
-			"y":-7840,
-			"width":1141,
-			"height":280,
-			"color":"#e2acac",
-			"label":"Aspect"
-		},
-		{
-			"id":"9b8371a6bb4c1bab",
-			"type":"group",
-			"styleAttributes":{},
-			"x":-3160,
-			"y":-1720,
-			"width":480,
-			"height":555,
-			"color":"6",
-			"label":"FP in Java"
-		},
-		{
 			"id":"ec52ee9d71af8d1d",
 			"type":"group",
 			"styleAttributes":{},
@@ -97,17 +75,6 @@
 			"height":388,
 			"color":"5",
 			"label":"Scope"
-		},
-		{
-			"id":"85ad61116b93a6ec",
-			"type":"group",
-			"styleAttributes":{},
-			"x":12320,
-			"y":240,
-			"width":340,
-			"height":423,
-			"color":"#bff58a",
-			"label":"ACID"
 		},
 		{
 			"id":"9bbbac256202572e",
@@ -141,9 +108,42 @@
 			"label":"Structural"
 		},
 		{
+			"id":"d0a650fc930f4388",
+			"type":"group",
+			"styleAttributes":{},
+			"x":10740,
+			"y":-1948,
+			"width":1200,
+			"height":520,
+			"color":"4",
+			"label":"Fetching data"
+		},
+		{
+			"id":"9b8371a6bb4c1bab",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-3160,
+			"y":-1720,
+			"width":480,
+			"height":555,
+			"color":"6",
+			"label":"FP in Java"
+		},
+		{
+			"id":"85ad61116b93a6ec",
+			"type":"group",
+			"styleAttributes":{},
+			"x":12320,
+			"y":240,
+			"width":340,
+			"height":423,
+			"color":"#bff58a",
+			"label":"ACID"
+		},
+		{
 			"id":"dbe70793eabcf87b",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Java Compiler.md",
+			"file":"Java Compiler.md",
 			"styleAttributes":{},
 			"x":-2540,
 			"y":5059,
@@ -153,7 +153,7 @@
 		{
 			"id":"246e61859ae62dd6",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Java Runtime Environment.md",
+			"file":"Java Runtime Environment.md",
 			"styleAttributes":{},
 			"x":-1888,
 			"y":5059,
@@ -163,7 +163,7 @@
 		{
 			"id":"fac5c7add6e65743",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Class Loader.md",
+			"file":"Class Loader.md",
 			"styleAttributes":{},
 			"x":-1320,
 			"y":5522,
@@ -173,7 +173,7 @@
 		{
 			"id":"f06b3541cb6d28c6",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Java Virtual Machine.md",
+			"file":"Java Virtual Machine.md",
 			"styleAttributes":{},
 			"x":-1786,
 			"y":5533,
@@ -183,7 +183,7 @@
 		{
 			"id":"4e9f8206be86b27a",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Just In Time (JIT).md",
+			"file":"Just In Time (JIT).md",
 			"styleAttributes":{},
 			"x":-2386,
 			"y":5551,
@@ -193,7 +193,7 @@
 		{
 			"id":"235b33ac4f466708",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Garbage Collector.md",
+			"file":"Garbage Collector.md",
 			"styleAttributes":{},
 			"x":-1810,
 			"y":5920,
@@ -203,7 +203,7 @@
 		{
 			"id":"77f8176ced26d756",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Ahead Of Time (AOT).md",
+			"file":"Ahead Of Time (AOT).md",
 			"styleAttributes":{},
 			"x":-2560,
 			"y":6009,
@@ -223,7 +223,7 @@
 		{
 			"id":"20daa1845a695932",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Heap and Stack.md",
+			"file":"Heap and Stack.md",
 			"styleAttributes":{},
 			"x":-1818,
 			"y":6249,
@@ -233,7 +233,7 @@
 		{
 			"id":"40952038b937e5b6",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Inheritance.md",
+			"file":"Inheritance.md",
 			"styleAttributes":{},
 			"x":-3554,
 			"y":417,
@@ -263,7 +263,7 @@
 		{
 			"id":"3f247c5173e52e24",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Abstraction.md",
+			"file":"Abstraction.md",
 			"styleAttributes":{},
 			"x":-3280,
 			"y":933,
@@ -273,7 +273,7 @@
 		{
 			"id":"255aad49be740e76",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Object.md",
+			"file":"Object.md",
 			"styleAttributes":{},
 			"x":-3626,
 			"y":2565,
@@ -303,7 +303,7 @@
 		{
 			"id":"56ba8aa769f51380",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Polymorphism.md",
+			"file":"Polymorphism.md",
 			"styleAttributes":{},
 			"x":-3600,
 			"y":683,
@@ -313,7 +313,7 @@
 		{
 			"id":"eeef40a440cfc9f9",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Reactive Programming.md",
+			"file":"Reactive Programming.md",
 			"styleAttributes":{},
 			"x":-3652,
 			"y":-425,
@@ -333,7 +333,7 @@
 		{
 			"id":"d980a57cbcad5641",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/First class citizen.md",
+			"file":"First class citizen.md",
 			"styleAttributes":{},
 			"x":-3174,
 			"y":-762,
@@ -343,7 +343,7 @@
 		{
 			"id":"d79dfad5ee52f273",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Encapsulation.md",
+			"file":"Encapsulation.md",
 			"styleAttributes":{},
 			"x":-3280,
 			"y":166,
@@ -353,7 +353,7 @@
 		{
 			"id":"31d3e21f188376be",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Pure Function.md",
+			"file":"Pure Function.md",
 			"styleAttributes":{},
 			"x":-3120,
 			"y":-1389,
@@ -363,7 +363,7 @@
 		{
 			"id":"46004a27bd610c8a",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Lambda expression.md",
+			"file":"Lambda expression.md",
 			"styleAttributes":{},
 			"x":-3120,
 			"y":-1594,
@@ -393,7 +393,7 @@
 		{
 			"id":"ea9ca19b658779da",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Equals.md",
+			"file":"Equals.md",
 			"styleAttributes":{},
 			"x":-4256,
 			"y":3173,
@@ -451,396 +451,14 @@
 			"height":76
 		},
 		{
-			"id":"686bc493eeee1e37",
-			"type":"text",
-			"text":"PriorityQueue",
-			"styleAttributes":{},
-			"x":760,
-			"y":-4011,
-			"width":260,
-			"height":50
-		},
-		{
-			"id":"1d391adbcd3a553b",
-			"type":"text",
-			"text":"ArrayDeque",
-			"styleAttributes":{},
-			"x":568,
-			"y":-4309,
-			"width":250,
-			"height":60
-		},
-		{
-			"id":"1a0975c3262b6385",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/HashMap.md",
-			"styleAttributes":{},
-			"x":643,
-			"y":-3536,
-			"width":329,
-			"height":149
-		},
-		{
-			"id":"2a7ccf349b4e8ae2",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/TreeMap.md",
-			"styleAttributes":{},
-			"x":1004,
-			"y":-3541,
-			"width":356,
-			"height":154
-		},
-		{
-			"id":"c4282bba6827342f",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Queue.md",
-			"styleAttributes":{},
-			"x":102,
-			"y":-3695,
-			"width":361,
-			"height":158
-		},
-		{
-			"id":"e6730451c65c6280",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/TreeSet.md",
-			"styleAttributes":{},
-			"x":-721,
-			"y":-4121,
-			"width":368,
-			"height":160
-		},
-		{
-			"id":"6a8e66ac2a15f3d2",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/LinkedList.md",
-			"styleAttributes":{},
-			"x":64,
-			"y":-4373,
-			"width":326,
-			"height":128
-		},
-		{
-			"id":"ea2df9b49fa7c550",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/List.md",
-			"styleAttributes":{},
-			"x":-353,
-			"y":-3697,
-			"width":361,
-			"height":161
-		},
-		{
-			"id":"2aeb504e28bb7d9b",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/ArrayList.md",
-			"styleAttributes":{},
-			"x":-373,
-			"y":-4373,
-			"width":317,
-			"height":124
-		},
-		{
-			"id":"7e22152d2bf42037",
-			"type":"text",
-			"text":"Dequeu",
-			"styleAttributes":{},
-			"x":338,
-			"y":-4082,
-			"width":250,
-			"height":60
-		},
-		{
-			"id":"392c015f272a047d",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Set.md",
-			"styleAttributes":{},
-			"x":-800,
-			"y":-3697,
-			"width":343,
-			"height":161
-		},
-		{
 			"id":"db174d74b8fe2209",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/LinkedHashSet.md",
+			"file":"LinkedHashSet.md",
 			"styleAttributes":{},
 			"x":-1421,
 			"y":-3922,
 			"width":358,
 			"height":147
-		},
-		{
-			"id":"8e316664dc6c22e6",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/HashSet.md",
-			"styleAttributes":{},
-			"x":-1201,
-			"y":-4292,
-			"width":370,
-			"height":191
-		},
-		{
-			"id":"7efe26f968428b87",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Spring alternatives.md",
-			"styleAttributes":{},
-			"x":2717,
-			"y":-4868,
-			"width":400,
-			"height":400
-		},
-		{
-			"id":"bea7171b441eb317",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Spring MVC.md",
-			"isStartNode":false,
-			"styleAttributes":{},
-			"x":2440,
-			"y":-5445,
-			"width":421,
-			"height":190
-		},
-		{
-			"id":"c363e4d1f16ea9c0",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Spring Security.md",
-			"styleAttributes":{},
-			"x":6422,
-			"y":-3800,
-			"width":364,
-			"height":180
-		},
-		{
-			"id":"3969d0ef51f13c94",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Spring Data JPA.md",
-			"styleAttributes":{},
-			"x":6740,
-			"y":-2745,
-			"width":457,
-			"height":192
-		},
-		{
-			"id":"7a8310d5dbee1bb5",
-			"type":"text",
-			"text":"Projection",
-			"styleAttributes":{},
-			"x":7364,
-			"y":-2613,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"6f196f1676d4ad4b",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Spring Data.md",
-			"styleAttributes":{},
-			"x":5897,
-			"y":-2917,
-			"width":543,
-			"height":197
-		},
-		{
-			"id":"f31794889adb64f9",
-			"type":"text",
-			"text":"Specification",
-			"styleAttributes":{},
-			"x":7367,
-			"y":-2805,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"9f04d3a317c01cd6",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Inversion of Control 🔄.md",
-			"styleAttributes":{},
-			"x":6025,
-			"y":-5200,
-			"width":435,
-			"height":181
-		},
-		{
-			"id":"7ba5580523e14f2d",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Spring Framework 🌱.md",
-			"styleAttributes":{},
-			"x":3987,
-			"y":-4956,
-			"width":773,
-			"height":576,
-			"color":"#20c200"
-		},
-		{
-			"id":"1064d87a0958d7b6",
-			"type":"text",
-			"text":"Serialization",
-			"styleAttributes":{},
-			"x":6360,
-			"y":-4820,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f20c64ef32255471",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Dependency Injection.md",
-			"styleAttributes":{},
-			"x":6025,
-			"y":-5440,
-			"width":431,
-			"height":161
-		},
-		{
-			"id":"1508029a07d65114",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Beans.md",
-			"styleAttributes":{},
-			"x":7552,
-			"y":-5807,
-			"width":408,
-			"height":200
-		},
-		{
-			"id":"93f81ce948947886",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Context.md",
-			"styleAttributes":{},
-			"x":7552,
-			"y":-6070,
-			"width":408,
-			"height":195
-		},
-		{
-			"id":"dff92b4f8b78aa47",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Singleton.md",
-			"styleAttributes":{},
-			"x":8140,
-			"y":-6196,
-			"width":380,
-			"height":149
-		},
-		{
-			"id":"4e62bd61829b163f",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Spring Boot Starter.md",
-			"styleAttributes":{},
-			"x":6786,
-			"y":-4135,
-			"width":334,
-			"height":103
-		},
-		{
-			"id":"0f962126a8aa0a99",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Spring Boot.md",
-			"styleAttributes":{},
-			"x":6720,
-			"y":-4440,
-			"width":380,
-			"height":165
-		},
-		{
-			"id":"039d81b77d45edc2",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Keycloak.md",
-			"styleAttributes":{},
-			"x":7539,
-			"y":-4010,
-			"width":400,
-			"height":170
-		},
-		{
-			"id":"f5039664cf24a7ff",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Spring Boot Auto Configuration.md",
-			"styleAttributes":{},
-			"x":7218,
-			"y":-4314,
-			"width":321,
-			"height":112
-		},
-		{
-			"id":"0f0b0049bfe716b9",
-			"type":"text",
-			"text":"ComponentScan",
-			"styleAttributes":{},
-			"x":7052,
-			"y":-4760,
-			"width":250,
-			"height":58
-		},
-		{
-			"id":"a7a96f0f8fb4dfa7",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Fat - Uber Jar.md",
-			"styleAttributes":{},
-			"x":7218,
-			"y":-4564,
-			"width":300,
-			"height":124
-		},
-		{
-			"id":"484d45721065d441",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Bean Life Cycle.md",
-			"styleAttributes":{},
-			"x":8140,
-			"y":-5777,
-			"width":423,
-			"height":170
-		},
-		{
-			"id":"b88eb94822fedd37",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Prototype.md",
-			"styleAttributes":{},
-			"x":8140,
-			"y":-6024,
-			"width":380,
-			"height":149
-		},
-		{
-			"id":"f5819dcb9bb743ef",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Core Container.md",
-			"styleAttributes":{},
-			"x":6895,
-			"y":-5867,
-			"width":431,
-			"height":160
-		},
-		{
-			"id":"5d5f92bdcf0a054e",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Spring Webflux.md",
-			"styleAttributes":{},
-			"x":3555,
-			"y":-5876,
-			"width":260,
-			"height":80
-		},
-		{
-			"id":"b58ddfa57a3049b8",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Servlet.md",
-			"styleAttributes":{},
-			"x":2731,
-			"y":-5969,
-			"width":388,
-			"height":162
-		},
-		{
-			"id":"9393b836aef90e3a",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Model View Controller.md",
-			"styleAttributes":{},
-			"x":2160,
-			"y":-5969,
-			"width":394,
-			"height":161
 		},
 		{
 			"id":"809d7faed661d797",
@@ -855,19 +473,9 @@
 			"height":50
 		},
 		{
-			"id":"cf47443ecbaf982e",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Identifiable resources.md",
-			"styleAttributes":{},
-			"x":4052,
-			"y":4360,
-			"width":385,
-			"height":180
-		},
-		{
 			"id":"c3aa06f3ab2baa9d",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/HashCode.md",
+			"file":"HashCode.md",
 			"styleAttributes":{},
 			"x":-3125,
 			"y":3183,
@@ -875,49 +483,9 @@
 			"height":223
 		},
 		{
-			"id":"7316e2105ac9cfb1",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/URI.md",
-			"styleAttributes":{},
-			"x":3163,
-			"y":4467,
-			"width":388,
-			"height":163
-		},
-		{
-			"id":"3d22b4e1ae4ba0b6",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Hypermedia.md",
-			"styleAttributes":{},
-			"x":5280,
-			"y":4332,
-			"width":352,
-			"height":148
-		},
-		{
-			"id":"2d986b23876659fe",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Maven.md",
-			"styleAttributes":{},
-			"x":-80,
-			"y":4363,
-			"width":420,
-			"height":177
-		},
-		{
-			"id":"53fb8ccdf6b55fbf",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Gradle 🐘.md",
-			"styleAttributes":{},
-			"x":1720,
-			"y":4356,
-			"width":328,
-			"height":280
-		},
-		{
 			"id":"7f0d6bcda336e550",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Java Development Kit (JDK).md",
+			"file":"Java Development Kit (JDK).md",
 			"styleAttributes":{},
 			"x":-2192,
 			"y":4522,
@@ -927,7 +495,7 @@
 		{
 			"id":"5b9ea40a7b88a998",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Atomicity.md",
+			"file":"Atomicity.md",
 			"styleAttributes":{},
 			"x":12364,
 			"y":275,
@@ -937,7 +505,7 @@
 		{
 			"id":"c1083be3297b89bf",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Isolation.md",
+			"file":"Isolation.md",
 			"styleAttributes":{},
 			"x":12364,
 			"y":485,
@@ -947,7 +515,7 @@
 		{
 			"id":"e5b52a48f7501a8c",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Consistency.md",
+			"file":"Consistency.md",
 			"styleAttributes":{},
 			"x":12364,
 			"y":382,
@@ -957,7 +525,7 @@
 		{
 			"id":"03dc977450da06f1",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Durability.md",
+			"file":"Durability.md",
 			"styleAttributes":{},
 			"x":12364,
 			"y":582,
@@ -965,39 +533,9 @@
 			"height":60
 		},
 		{
-			"id":"6b01d262591c6225",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Standardized interface.md",
-			"styleAttributes":{},
-			"x":4280,
-			"y":4594,
-			"width":364,
-			"height":168
-		},
-		{
-			"id":"a124f1199b7d8b43",
-			"type":"text",
-			"text":"# Stateless\nEach request contains all the information needed for the server to process it, with no client state stored on the server.\n\n**Make the app scalable**. Requires only a front-end load balancer.\n**Favors low coupling**: Session concept cannot be shared.\n\nThe advantage of stateles is that it makes it easier to replicate servers, since no data is saved in RAM. **Allows easy horizontal scaling (server replication)**.",
-			"styleAttributes":{},
-			"x":4689,
-			"y":4594,
-			"width":380,
-			"height":168
-		},
-		{
-			"id":"14c338577b266a0d",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Resource representation.md",
-			"styleAttributes":{},
-			"x":5115,
-			"y":4594,
-			"width":400,
-			"height":168
-		},
-		{
 			"id":"fcb62244e9b9f56b",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/@Transactional.md",
+			"file":"@Transactional.md",
 			"styleAttributes":{},
 			"x":12055,
 			"y":-200,
@@ -1005,64 +543,14 @@
 			"height":208
 		},
 		{
-			"id":"a8b5ec00521d734c",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Maven Scope.md",
-			"styleAttributes":{},
-			"x":674,
-			"y":4660,
-			"width":386,
-			"height":205
-		},
-		{
 			"id":"c553cab8e89d4141",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/readOnly Transaction flag.md",
+			"file":"readOnly Transaction flag.md",
 			"styleAttributes":{},
 			"x":12793,
 			"y":82,
 			"width":447,
 			"height":193
-		},
-		{
-			"id":"530c6a19c6ac067a",
-			"type":"text",
-			"text":"Builder",
-			"styleAttributes":{},
-			"x":7414,
-			"y":4692,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"364a2ab4a72bdf17",
-			"type":"text",
-			"text":"Observer",
-			"styleAttributes":{},
-			"x":8320,
-			"y":4692,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"300e760292e56804",
-			"type":"text",
-			"text":"Singleton",
-			"styleAttributes":{},
-			"x":7894,
-			"y":4710,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"e35487c8314a2450",
-			"type":"text",
-			"text":"Multi Module",
-			"styleAttributes":{},
-			"x":-291,
-			"y":4865,
-			"width":260,
-			"height":60
 		},
 		{
 			"id":"59736265a3b8dc29",
@@ -1077,22 +565,12 @@
 		{
 			"id":"0ed26baa4cee6cf4",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Propagation Type.md",
+			"file":"Propagation Type.md",
 			"styleAttributes":{},
 			"x":13074,
 			"y":-328,
 			"width":333,
 			"height":135
-		},
-		{
-			"id":"97f26ea2652ea844",
-			"type":"text",
-			"text":"Chain of responsibility",
-			"styleAttributes":{},
-			"x":7850,
-			"y":4840,
-			"width":260,
-			"height":60
 		},
 		{
 			"id":"3595e2899d5db1df",
@@ -1107,7 +585,7 @@
 		{
 			"id":"1f9729ad6845057b",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Pom parent.md",
+			"file":"Pom parent.md",
 			"styleAttributes":{},
 			"x":172,
 			"y":5050,
@@ -1117,7 +595,7 @@
 		{
 			"id":"019b034347464939",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Content Negociation.md",
+			"file":"Content Negociation.md",
 			"styleAttributes":{},
 			"x":5240,
 			"y":5000,
@@ -1137,7 +615,7 @@
 		{
 			"id":"2b040f034a5eecdd",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Spring Security.md",
+			"file":"Spring Security.md",
 			"styleAttributes":{},
 			"x":8154,
 			"y":5100,
@@ -1157,7 +635,7 @@
 		{
 			"id":"43467f480fedf4e7",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Wrapper.md",
+			"file":"Wrapper.md",
 			"styleAttributes":{},
 			"x":909,
 			"y":5220,
@@ -1167,7 +645,7 @@
 		{
 			"id":"db3e813732a49c74",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Dirty checking.md",
+			"file":"Dirty checking.md",
 			"styleAttributes":{},
 			"x":13520,
 			"y":151,
@@ -1175,191 +653,9 @@
 			"height":154
 		},
 		{
-			"id":"c5dd9fa63789903c",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/WebSocket.md",
-			"styleAttributes":{},
-			"x":3200,
-			"y":-6539,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5c57fc575bd345ca",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Spring AOP.md",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":5072,
-			"y":-7216,
-			"width":372,
-			"height":172
-		},
-		{
-			"id":"331ea26095863562",
-			"type":"text",
-			"text":"## Runtime\n\n",
-			"styleAttributes":{},
-			"x":6634,
-			"y":-7154,
-			"width":286,
-			"height":114
-		},
-		{
-			"id":"764d9a6574019895",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Aspect Oriented Programming.md",
-			"styleAttributes":{},
-			"x":4440,
-			"y":-7236,
-			"width":447,
-			"height":172
-		},
-		{
-			"id":"bcbf07b9909b353c",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Weaving.md",
-			"styleAttributes":{},
-			"x":6193,
-			"y":-7309,
-			"width":303,
-			"height":128
-		},
-		{
-			"id":"1dbe3b08c789a5e9",
-			"type":"text",
-			"text":"## Class load time \n- Insert bytecode into the JVM\n- No need to recompile\n\n[[Class Loader]]\n",
-			"styleAttributes":{},
-			"x":6639,
-			"y":-7275,
-			"width":281,
-			"height":94
-		},
-		{
-			"id":"df316ebb6dc6d6c8",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Proxy.md",
-			"styleAttributes":{},
-			"x":5576,
-			"y":-7319,
-			"width":407,
-			"height":165
-		},
-		{
-			"id":"131d035c9012c823",
-			"type":"text",
-			"text":"## Compile time\n\ntransformation into bytecode\n",
-			"styleAttributes":{},
-			"x":6634,
-			"y":-7421,
-			"width":286,
-			"height":112
-		},
-		{
-			"id":"6effbdab52df2d9c",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/JDK Dynamic Proxies.md",
-			"styleAttributes":{},
-			"x":5813,
-			"y":-7661,
-			"width":340,
-			"height":156
-		},
-		{
-			"id":"433a3703c0fbe139",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/CGLib Proxies.md",
-			"styleAttributes":{},
-			"x":5428,
-			"y":-7661,
-			"width":345,
-			"height":156
-		},
-		{
-			"id":"2fdef452534bf316",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/JoinPoint.md",
-			"styleAttributes":{},
-			"x":3664,
-			"y":-7778,
-			"width":340,
-			"height":160
-		},
-		{
-			"id":"13f39a0da1237de5",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Pointcut.md",
-			"styleAttributes":{},
-			"x":4052,
-			"y":-7778,
-			"width":348,
-			"height":160
-		},
-		{
-			"id":"0a21bd2b3a3aaeef",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Advice.md",
-			"styleAttributes":{},
-			"x":3300,
-			"y":-7778,
-			"width":316,
-			"height":160
-		},
-		{
-			"id":"78a03f2dd495d688",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/images/Pasted image 20240727222500.png",
-			"styleAttributes":{},
-			"x":3652,
-			"y":-8200,
-			"width":400,
-			"height":272
-		},
-		{
-			"id":"9c73ae739e0b2491",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Collection.md",
-			"styleAttributes":{},
-			"x":-181,
-			"y":-3048,
-			"width":439,
-			"height":186
-		},
-		{
-			"id":"b079d5cd6fb64f1a",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Map.md",
-			"styleAttributes":{},
-			"x":754,
-			"y":-3017,
-			"width":369,
-			"height":123
-		},
-		{
-			"id":"8c230b1640d3be14",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Iterator.md",
-			"styleAttributes":{},
-			"x":51,
-			"y":-2507,
-			"width":305,
-			"height":141
-		},
-		{
-			"id":"98923e77a3742208",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Bucket 🪣.md",
-			"styleAttributes":{},
-			"x":1400,
-			"y":-2955,
-			"width":400,
-			"height":205
-		},
-		{
 			"id":"dd0a598f8146e159",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Terminal Operations.md",
+			"file":"Terminal Operations.md",
 			"styleAttributes":{},
 			"x":-1930,
 			"y":-1982,
@@ -1389,7 +685,7 @@
 		{
 			"id":"f0d125d4b064c45a",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Functional programming.md",
+			"file":"Functional programming.md",
 			"isStartNode":false,
 			"styleAttributes":{},
 			"x":-2237,
@@ -1400,7 +696,7 @@
 		{
 			"id":"01e77dec720d2f8e",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Streams.md",
+			"file":"Streams.md",
 			"styleAttributes":{},
 			"x":-1526,
 			"y":-1481,
@@ -1410,7 +706,7 @@
 		{
 			"id":"c3c1d6189890d077",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Map Reduce.md",
+			"file":"Map Reduce.md",
 			"styleAttributes":{},
 			"x":-2265,
 			"y":-1565,
@@ -1418,29 +714,9 @@
 			"height":145
 		},
 		{
-			"id":"47d3e2626eb66296",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Hash table.md",
-			"styleAttributes":{},
-			"x":1106,
-			"y":-2497,
-			"width":349,
-			"height":131
-		},
-		{
-			"id":"2cb4f440fbdd1d87",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/The Collections Framework.md",
-			"styleAttributes":{},
-			"x":463,
-			"y":-2231,
-			"width":402,
-			"height":174
-		},
-		{
 			"id":"a63818cfdbcd6533",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Multi Threading.md",
+			"file":"Multi Threading.md",
 			"styleAttributes":{},
 			"x":-2230,
 			"y":-2852,
@@ -1450,7 +726,7 @@
 		{
 			"id":"ab734ef6c1088d0b",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Local Thread.md",
+			"file":"Local Thread.md",
 			"styleAttributes":{},
 			"x":-2080,
 			"y":-2468,
@@ -1458,39 +734,9 @@
 			"height":247
 		},
 		{
-			"id":"29aa4b50014620cf",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Context Switch.md",
-			"styleAttributes":{},
-			"x":-640,
-			"y":-2805,
-			"width":360,
-			"height":166
-		},
-		{
-			"id":"ce39550ab6526396",
-			"type":"text",
-			"text":"# Concurrency",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-730,
-			"y":-2290,
-			"width":300,
-			"height":69
-		},
-		{
-			"id":"bf9de42b63fdca4e",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Virtual Thread.md",
-			"styleAttributes":{},
-			"x":-920,
-			"y":-3270,
-			"width":400,
-			"height":232
-		},
-		{
 			"id":"16a3d9a8ab75c75c",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Volatile.md",
+			"file":"Volatile.md",
 			"styleAttributes":{},
 			"x":-1563,
 			"y":-3132,
@@ -1498,332 +744,9 @@
 			"height":168
 		},
 		{
-			"id":"f8d09a711da9a434",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Thread.md",
-			"styleAttributes":{},
-			"x":-1364,
-			"y":-2727,
-			"width":403,
-			"height":176
-		},
-		{
-			"id":"bc853cad8009ada2",
-			"type":"text",
-			"text":"IO",
-			"styleAttributes":{},
-			"x":-840,
-			"y":-1720,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"8fb20db6f65bbc14",
-			"type":"text",
-			"text":"Security Test\nPermissions endpoint management",
-			"styleAttributes":{},
-			"x":2200,
-			"y":1844,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"9fb98350d30854b9",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Java ☕️.md",
-			"styleAttributes":{},
-			"x":-706,
-			"y":623,
-			"width":340,
-			"height":172,
-			"color":"1"
-		},
-		{
-			"id":"de8834b89b979cba",
-			"type":"text",
-			"text":"Quality Assurance",
-			"styleAttributes":{},
-			"x":2018,
-			"y":2054,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"0b971e98da839f29",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Kotlin.md",
-			"styleAttributes":{},
-			"x":-690,
-			"y":2020,
-			"width":350,
-			"height":165
-		},
-		{
-			"id":"5a12875116c73e2b",
-			"type":"text",
-			"text":"Null pointer",
-			"styleAttributes":{},
-			"x":-468,
-			"y":2403,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b5cdf66504d43045",
-			"type":"file",
-			"file":"02 - Domaines/Architectures/Message Broker.md",
-			"styleAttributes":{},
-			"x":2434,
-			"y":2489,
-			"width":513,
-			"height":400
-		},
-		{
-			"id":"16a81247cb3b70ae",
-			"type":"text",
-			"text":"Conciseness",
-			"styleAttributes":{},
-			"x":-681,
-			"y":2548,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"869c6a974a1e4638",
-			"type":"text",
-			"text":"Data class",
-			"styleAttributes":{},
-			"x":-920,
-			"y":2323,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"912efe89afe6a83e",
-			"type":"file",
-			"file":"02 - Domaines/Architectures/Kafka.md",
-			"styleAttributes":{},
-			"x":2018,
-			"y":3257,
-			"width":416,
-			"height":205
-		},
-		{
-			"id":"c3a85d3c12cf8741",
-			"type":"file",
-			"file":"02 - Domaines/Architectures/Advanced Message Queuing Protocol (AMQP).md",
-			"styleAttributes":{},
-			"x":2750,
-			"y":3323,
-			"width":394,
-			"height":139
-		},
-		{
-			"id":"6c127ca2f8c2aebf",
-			"type":"text",
-			"text":"# Quality",
-			"styleAttributes":{},
-			"x":5948,
-			"y":1815,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"37ffc5808ec1d0f8",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Versionning.md",
-			"styleAttributes":{},
-			"x":3525,
-			"y":2538,
-			"width":480,
-			"height":492
-		},
-		{
-			"id":"6827b09a768de7b7",
-			"type":"text",
-			"text":"SOAP",
-			"styleAttributes":{},
-			"x":4676,
-			"y":2859,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"57f2f6e722568b1a",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/REST.md",
-			"styleAttributes":{},
-			"x":4360,
-			"y":3573,
-			"width":446,
-			"height":175
-		},
-		{
-			"id":"f9884bb87acee8af",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Idempotent.md",
-			"styleAttributes":{},
-			"x":3620,
-			"y":3750,
-			"width":385,
-			"height":177
-		},
-		{
-			"id":"31cd7cd4c4a518e4",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Application Programming Interface (API).md",
-			"styleAttributes":{},
-			"x":4200,
-			"y":2201,
-			"width":368,
-			"height":127
-		},
-		{
-			"id":"08f19c8a5b0e4576",
-			"type":"text",
-			"text":"Richardson Model",
-			"styleAttributes":{},
-			"x":4936,
-			"y":2759,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5d290fc9564abf54",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Web Service.md",
-			"styleAttributes":{},
-			"x":5196,
-			"y":2441,
-			"width":400,
-			"height":212
-		},
-		{
-			"id":"5e9584ab70418ad8",
-			"type":"text",
-			"text":"YAGNI, KISS, DRY",
-			"styleAttributes":{},
-			"x":5737,
-			"y":2985,
-			"width":250,
-			"height":90
-		},
-		{
-			"id":"7e1e1d8af7258383",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Cache Control.md",
-			"styleAttributes":{},
-			"x":5090,
-			"y":3842,
-			"width":326,
-			"height":98
-		},
-		{
-			"id":"b3c34424a3144bf6",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/JUnit.md",
-			"styleAttributes":{},
-			"x":840,
-			"y":1421,
-			"width":300,
-			"height":102
-		},
-		{
-			"id":"06b9951d1ba94688",
-			"type":"text",
-			"text":"String",
-			"styleAttributes":{},
-			"x":305,
-			"y":-1199,
-			"width":250,
-			"height":50
-		},
-		{
-			"id":"9124d1aa1fd6d50e",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Java APIs.md",
-			"styleAttributes":{},
-			"x":-366,
-			"y":-1000,
-			"width":370,
-			"height":178
-		},
-		{
-			"id":"a336abb578b22e72",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Java Reflection API.md",
-			"styleAttributes":{},
-			"x":555,
-			"y":-1059,
-			"width":314,
-			"height":119
-		},
-		{
-			"id":"fcba927e0dc9b610",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Thread.md",
-			"styleAttributes":{},
-			"x":724,
-			"y":-787,
-			"width":400,
-			"height":127
-		},
-		{
-			"id":"4cc5065f1ba9f6b3",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Java Versions and features.md",
-			"styleAttributes":{},
-			"x":1455,
-			"y":0,
-			"width":545,
-			"height":300
-		},
-		{
-			"id":"4ca517d71a7b45ec",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Web Application.md",
-			"styleAttributes":{},
-			"x":3700,
-			"y":334,
-			"width":280,
-			"height":106,
-			"color":"3"
-		},
-		{
-			"id":"aaef624b0c2b3178",
-			"type":"text",
-			"text":"# Craftmasnship",
-			"styleAttributes":{},
-			"x":5987,
-			"y":2441,
-			"width":250,
-			"height":50
-		},
-		{
-			"id":"16a178d3813c653b",
-			"type":"text",
-			"text":"Extreme programming",
-			"styleAttributes":{},
-			"x":6106,
-			"y":3258,
-			"width":250,
-			"height":66
-		},
-		{
-			"id":"caef5be0bbfab52e",
-			"type":"text",
-			"text":"# Test",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1720,
-			"y":1361,
-			"width":260,
-			"height":60,
-			"color":"#03bd00"
-		},
-		{
 			"id":"b71427b2720376b8",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Object Oriented Programming.md",
+			"file":"Object Oriented Programming.md",
 			"styleAttributes":{},
 			"x":-2610,
 			"y":571,
@@ -1833,7 +756,7 @@
 		{
 			"id":"f52cfd38d9586d66",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Exceptions.md",
+			"file":"Exceptions.md",
 			"styleAttributes":{},
 			"x":-2780,
 			"y":1150,
@@ -1851,77 +774,6 @@
 			"height":200
 		},
 		{
-			"id":"a309b0f6afe158b3",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/End to End.md",
-			"styleAttributes":{},
-			"x":1740,
-			"y":2288,
-			"width":360,
-			"height":175
-		},
-		{
-			"id":"4c7e2bfea4ca58a4",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Integration test.md",
-			"styleAttributes":{},
-			"x":1454,
-			"y":1904,
-			"width":346,
-			"height":130
-		},
-		{
-			"id":"f977ff4f1108b603",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Unit test.md",
-			"styleAttributes":{},
-			"x":1080,
-			"y":1900,
-			"width":300,
-			"height":145
-		},
-		{
-			"id":"b5965273e06b90c7",
-			"type":"text",
-			"text":"SpringTestContainerContext",
-			"styleAttributes":{},
-			"x":1274,
-			"y":2212,
-			"width":260,
-			"height":76
-		},
-		{"id":"0d115b5ffc9376c8","type":"text","text":"MockMvc","x":1624,"y":2657,"width":250,"height":60},
-		{
-			"id":"a4298e3bafaba2aa",
-			"type":"text",
-			"text":"Activate Logs hibernate\nspring.jpa.show_sql:true\n",
-			"styleAttributes":{},
-			"x":8235,
-			"y":2080,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"76e38f9789ef654a",
-			"type":"text",
-			"text":"Batch Processing\nBatch update or Batch INSERT in SQL.",
-			"styleAttributes":{},
-			"x":8594,
-			"y":2087,
-			"width":260,
-			"height":113
-		},
-		{
-			"id":"43cfe77aa69c1a7d",
-			"type":"text",
-			"text":"Consistency",
-			"styleAttributes":{},
-			"x":9853,
-			"y":2089,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"fcdb0b9ef368b074",
 			"type":"text",
 			"text":"Partition Tolerance",
@@ -1932,26 +784,6 @@
 			"height":60
 		},
 		{
-			"id":"9f5464b095f3bd6a",
-			"type":"text",
-			"text":"Availability",
-			"styleAttributes":{},
-			"x":10265,
-			"y":2089,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"626946680d374017",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Index (RDBMS).md",
-			"styleAttributes":{},
-			"x":9000,
-			"y":1702,
-			"width":427,
-			"height":191
-		},
-		{
 			"id":"9534e4cc1aa5e593",
 			"type":"text",
 			"text":"Class\n",
@@ -1960,16 +792,6 @@
 			"y":1231,
 			"width":260,
 			"height":50
-		},
-		{
-			"id":"d637841f0eff1fb8",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/CAP Theorem.md",
-			"styleAttributes":{},
-			"x":10200,
-			"y":1840,
-			"width":400,
-			"height":77
 		},
 		{
 			"id":"2b6ee043b8e4cbb9",
@@ -1993,322 +815,9 @@
 			"height":60
 		},
 		{
-			"id":"0c8742e4571714e7",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Single Responsibility Principle.md",
-			"styleAttributes":{},
-			"x":7635,
-			"y":2789,
-			"width":454,
-			"height":183
-		},
-		{
-			"id":"877ad47bce0bf99c",
-			"type":"text",
-			"text":"Design Pattern",
-			"styleAttributes":{},
-			"x":6614,
-			"y":3643,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"9644c0d4248706be",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Interface Segregation Principle (ISP).md",
-			"styleAttributes":{},
-			"x":7635,
-			"y":3233,
-			"width":454,
-			"height":186
-		},
-		{
-			"id":"6f6f9c3dee3a93cd",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Open Closed Principle.md",
-			"styleAttributes":{},
-			"x":8109,
-			"y":2786,
-			"width":458,
-			"height":186
-		},
-		{
-			"id":"273c6a828be859ff",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Liskov Substitution Principle.md",
-			"styleAttributes":{},
-			"x":7880,
-			"y":3010,
-			"width":458,
-			"height":175
-		},
-		{
-			"id":"0318174e46188eef",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Dependency Inversion Principle.md",
-			"styleAttributes":{},
-			"x":8109,
-			"y":3233,
-			"width":458,
-			"height":186
-		},
-		{
-			"id":"cad78583d70b0e4a",
-			"type":"text",
-			"text":"L1 Cache",
-			"styleAttributes":{},
-			"x":9744,
-			"y":-3165,
-			"width":260,
-			"height":50
-		},
-		{
-			"id":"2beeffd541cb0209",
-			"type":"text",
-			"text":"L2 Cache",
-			"styleAttributes":{},
-			"x":9950,
-			"y":-2950,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"d1885ee73ba5f60a",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Session.md",
-			"styleAttributes":{},
-			"x":10250,
-			"y":-2917,
-			"width":340,
-			"height":142
-		},
-		{
-			"id":"4b22606d32c211a7",
-			"type":"text",
-			"text":"Criteria API",
-			"styleAttributes":{},
-			"x":8840,
-			"y":-1360,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"74085217199c5ec3",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Hibernate.md",
-			"isStartNode":false,
-			"styleAttributes":{},
-			"x":8903,
-			"y":-2380,
-			"width":469,
-			"height":247
-		},
-		{
-			"id":"7ee9319a9e44693e",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/EclipseLink.md",
-			"styleAttributes":{},
-			"x":8910,
-			"y":-2088,
-			"width":462,
-			"height":143
-		},
-		{
-			"id":"9fa1122f68896565",
-			"type":"text",
-			"text":"# Open JPA",
-			"styleAttributes":{},
-			"x":8910,
-			"y":-1901,
-			"width":462,
-			"height":73
-		},
-		{
-			"id":"5675171e03d5ed8a",
-			"type":"text",
-			"text":"Projection",
-			"styleAttributes":{},
-			"x":9000,
-			"y":-696,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"6a15b1d52f48856a",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Hibernate Cache.md",
-			"styleAttributes":{},
-			"x":9584,
-			"y":-2733,
-			"width":420,
-			"height":176
-		},
-		{
-			"id":"902b06a7ab8f4ea7",
-			"type":"text",
-			"text":"SQL",
-			"isStartNode":false,
-			"styleAttributes":{},
-			"x":8845,
-			"y":-196,
-			"width":250,
-			"height":60
-		},
-		{
-			"id":"aa031b3a01c1a737",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Persistence life cycle.md",
-			"styleAttributes":{},
-			"x":10350,
-			"y":-2247,
-			"width":512,
-			"height":159
-		},
-		{
-			"id":"ee97de1b9d018a2a",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Persistence context.md",
-			"styleAttributes":{},
-			"x":10350,
-			"y":-2591,
-			"width":512,
-			"height":256
-		},
-		{
-			"id":"84a782f94bcc7681",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Relationships.md",
-			"styleAttributes":{},
-			"x":9980,
-			"y":-2051,
-			"width":460,
-			"height":146
-		},
-		{
-			"id":"fe3da4d8019ccb3a",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Inheritance Mapping.md",
-			"styleAttributes":{},
-			"x":9980,
-			"y":-1841,
-			"width":460,
-			"height":162
-		},
-		{
-			"id":"8cbd0fb90c0a978a",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Key Mapping.md",
-			"styleAttributes":{},
-			"x":9980,
-			"y":-1625,
-			"width":460,
-			"height":155
-		},
-		{
-			"id":"beb5eb42df0faf6e",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/JPQL.md",
-			"styleAttributes":{},
-			"x":9557,
-			"y":-800,
-			"width":363,
-			"height":164
-		},
-		{
-			"id":"3aec2f88669b9762",
-			"type":"text",
-			"text":"HQL",
-			"styleAttributes":{},
-			"x":10200,
-			"y":-746,
-			"width":260,
-			"height":50
-		},
-		{
-			"id":"9452957afc878a35",
-			"type":"text",
-			"text":"Jointures",
-			"styleAttributes":{},
-			"x":9412,
-			"y":-90,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"c1aa84416e9c681f",
-			"type":"text",
-			"text":"Inner Join",
-			"styleAttributes":{},
-			"x":10142,
-			"y":-319,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"951dfb1c810d8210",
-			"type":"text",
-			"text":"Left Join",
-			"styleAttributes":{},
-			"x":10142,
-			"y":-90,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"9b8ce459d9083db6",
-			"type":"text",
-			"text":"Outer Join",
-			"styleAttributes":{},
-			"x":10142,
-			"y":-196,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"673966821857b467",
-			"type":"text",
-			"text":"Cross Join",
-			"styleAttributes":{},
-			"x":10142,
-			"y":40,
-			"width":260,
-			"height":60
-		},
-		{"id":"12465406289fc46c","type":"file","file":"02 - Domaines/Web applications/Normalization.md","x":7551,"y":1349,"width":369,"height":171},
-		{
-			"id":"345946ea31de9ae7",
-			"type":"text",
-			"text":"Database",
-			"styleAttributes":{},
-			"x":7985,
-			"y":819,
-			"width":250,
-			"height":50
-		},
-		{
-			"id":"c9b2cfdb2c9448f0",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/EXPLAIN ANALYZE.md",
-			"styleAttributes":{},
-			"x":7809,
-			"y":1734,
-			"width":511,
-			"height":159
-		},
-		{
-			"id":"60bf3db8a16cb2a3",
-			"type":"text",
-			"text":"Performance",
-			"styleAttributes":{},
-			"x":8450,
-			"y":1331,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"2a7567e5f95d5bf4",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Transaction.md",
+			"file":"Transaction.md",
 			"styleAttributes":{},
 			"x":11516,
 			"y":347,
@@ -2316,30 +825,9 @@
 			"height":163
 		},
 		{
-			"id":"0eae94578d3f0a0e",
-			"type":"text",
-			"text":"Group Theory",
-			"styleAttributes":{},
-			"x":7975,
-			"y":360,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"0d573339942f073a",
-			"type":"file",
-			"file":"02 - Domaines/Web applications/Java Persistence API (JPA).md",
-			"styleAttributes":{},
-			"x":7920,
-			"y":-1957,
-			"width":443,
-			"height":232,
-			"color":"5"
-		},
-		{
 			"id":"4ca220b7cd564730",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Lazy loading.md",
+			"file":"Lazy loading.md",
 			"styleAttributes":{},
 			"x":10789,
 			"y":-1921,
@@ -2349,7 +837,7 @@
 		{
 			"id":"00f324802719f3b9",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/Eager Fetching.md",
+			"file":"Eager Fetching.md",
 			"styleAttributes":{},
 			"x":10789,
 			"y":-1679,
@@ -2359,7 +847,7 @@
 		{
 			"id":"b230c726a26d1a1e",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/OSIV (Open Session In View).md",
+			"file":"OSIV (Open Session In View).md",
 			"styleAttributes":{},
 			"x":10910,
 			"y":-3292,
@@ -2419,7 +907,7 @@
 		{
 			"id":"cc50a4b00c4e454c",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/EntityManager.md",
+			"file":"EntityManager.md",
 			"styleAttributes":{},
 			"x":10630,
 			"y":-2917,
@@ -2429,7 +917,7 @@
 		{
 			"id":"622b1d8c7ced4f9d",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/N+1 problem.md",
+			"file":"N+1 problem.md",
 			"styleAttributes":{},
 			"x":11488,
 			"y":-2365,
@@ -2439,7 +927,7 @@
 		{
 			"id":"9a46a428cf39f387",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/images/Screenshot 2024-07-09 at 9.55.32 AM.png",
+			"file":"images/Screenshot 2024-07-09 at 9.55.32 AM.png",
 			"styleAttributes":{"border":"invisible"},
 			"x":11113,
 			"y":-2694,
@@ -2449,12 +937,1524 @@
 		{
 			"id":"8251d01c9f8b0686",
 			"type":"file",
-			"file":"02 - Domaines/Web applications/images/Screenshot 2024-06-25 at 9.08.30 PM.png",
+			"file":"images/Screenshot 2024-06-25 at 9.08.30 PM.png",
 			"styleAttributes":{"border":"invisible"},
 			"x":11217,
 			"y":-1922,
 			"width":686,
 			"height":446
+		},
+		{
+			"id":"2beeffd541cb0209",
+			"type":"text",
+			"text":"L2 Cache",
+			"styleAttributes":{},
+			"x":9950,
+			"y":-2950,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"84a782f94bcc7681",
+			"type":"file",
+			"file":"Relationships.md",
+			"styleAttributes":{},
+			"x":9980,
+			"y":-2051,
+			"width":460,
+			"height":146
+		},
+		{
+			"id":"fe3da4d8019ccb3a",
+			"type":"file",
+			"file":"Inheritance Mapping.md",
+			"styleAttributes":{},
+			"x":9980,
+			"y":-1841,
+			"width":460,
+			"height":162
+		},
+		{
+			"id":"8cbd0fb90c0a978a",
+			"type":"file",
+			"file":"Key Mapping.md",
+			"styleAttributes":{},
+			"x":9980,
+			"y":-1625,
+			"width":460,
+			"height":155
+		},
+		{
+			"id":"c1aa84416e9c681f",
+			"type":"text",
+			"text":"Inner Join",
+			"styleAttributes":{},
+			"x":10142,
+			"y":-319,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"951dfb1c810d8210",
+			"type":"text",
+			"text":"Left Join",
+			"styleAttributes":{},
+			"x":10142,
+			"y":-90,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9b8ce459d9083db6",
+			"type":"text",
+			"text":"Outer Join",
+			"styleAttributes":{},
+			"x":10142,
+			"y":-196,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"673966821857b467",
+			"type":"text",
+			"text":"Cross Join",
+			"styleAttributes":{},
+			"x":10142,
+			"y":40,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d637841f0eff1fb8",
+			"type":"file",
+			"file":"CAP Theorem.md",
+			"styleAttributes":{},
+			"x":10200,
+			"y":1840,
+			"width":400,
+			"height":77
+		},
+		{
+			"id":"3aec2f88669b9762",
+			"type":"text",
+			"text":"HQL",
+			"styleAttributes":{},
+			"x":10200,
+			"y":-746,
+			"width":260,
+			"height":50
+		},
+		{
+			"id":"9f5464b095f3bd6a",
+			"type":"text",
+			"text":"Availability",
+			"styleAttributes":{},
+			"x":10265,
+			"y":2089,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d1885ee73ba5f60a",
+			"type":"file",
+			"file":"Session.md",
+			"styleAttributes":{},
+			"x":10250,
+			"y":-2917,
+			"width":340,
+			"height":142
+		},
+		{
+			"id":"aa031b3a01c1a737",
+			"type":"file",
+			"file":"Persistence life cycle.md",
+			"styleAttributes":{},
+			"x":10350,
+			"y":-2247,
+			"width":512,
+			"height":159
+		},
+		{
+			"id":"ee97de1b9d018a2a",
+			"type":"file",
+			"file":"Persistence context.md",
+			"styleAttributes":{},
+			"x":10350,
+			"y":-2591,
+			"width":512,
+			"height":256
+		},
+		{
+			"id":"626946680d374017",
+			"type":"file",
+			"file":"Index (RDBMS).md",
+			"styleAttributes":{},
+			"x":9000,
+			"y":1702,
+			"width":427,
+			"height":191
+		},
+		{"id":"12465406289fc46c","type":"file","file":"Normalization.md","x":7551,"y":1349,"width":369,"height":171},
+		{
+			"id":"c9b2cfdb2c9448f0",
+			"type":"file",
+			"file":"EXPLAIN ANALYZE.md",
+			"styleAttributes":{},
+			"x":7809,
+			"y":1734,
+			"width":511,
+			"height":159
+		},
+		{
+			"id":"60bf3db8a16cb2a3",
+			"type":"text",
+			"text":"Performance",
+			"styleAttributes":{},
+			"x":8450,
+			"y":1331,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4ca517d71a7b45ec",
+			"type":"file",
+			"file":"Web Application.md",
+			"styleAttributes":{},
+			"x":3700,
+			"y":334,
+			"width":280,
+			"height":106,
+			"color":"3"
+		},
+		{
+			"id":"6c127ca2f8c2aebf",
+			"type":"text",
+			"text":"# Quality",
+			"styleAttributes":{},
+			"x":5948,
+			"y":1815,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"345946ea31de9ae7",
+			"type":"text",
+			"text":"Database",
+			"styleAttributes":{},
+			"x":7985,
+			"y":819,
+			"width":250,
+			"height":50
+		},
+		{
+			"id":"0eae94578d3f0a0e",
+			"type":"text",
+			"text":"Group Theory",
+			"styleAttributes":{},
+			"x":7975,
+			"y":360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"9124d1aa1fd6d50e",
+			"type":"file",
+			"file":"Java APIs.md",
+			"styleAttributes":{},
+			"x":-366,
+			"y":-1000,
+			"width":370,
+			"height":178
+		},
+		{
+			"id":"a336abb578b22e72",
+			"type":"file",
+			"file":"Java Reflection API.md",
+			"styleAttributes":{},
+			"x":555,
+			"y":-1059,
+			"width":314,
+			"height":119
+		},
+		{
+			"id":"74085217199c5ec3",
+			"type":"file",
+			"file":"Hibernate.md",
+			"isStartNode":false,
+			"styleAttributes":{},
+			"x":8903,
+			"y":-2380,
+			"width":469,
+			"height":247
+		},
+		{
+			"id":"7ee9319a9e44693e",
+			"type":"file",
+			"file":"EclipseLink.md",
+			"styleAttributes":{},
+			"x":8910,
+			"y":-2088,
+			"width":462,
+			"height":143
+		},
+		{
+			"id":"9fa1122f68896565",
+			"type":"text",
+			"text":"# Open JPA",
+			"styleAttributes":{},
+			"x":8910,
+			"y":-1901,
+			"width":462,
+			"height":73
+		},
+		{
+			"id":"0d573339942f073a",
+			"type":"file",
+			"file":"Java Persistence API (JPA).md",
+			"styleAttributes":{},
+			"x":7920,
+			"y":-1957,
+			"width":443,
+			"height":232,
+			"color":"5"
+		},
+		{
+			"id":"5a12875116c73e2b",
+			"type":"text",
+			"text":"Null pointer",
+			"styleAttributes":{},
+			"x":-468,
+			"y":2403,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"fcba927e0dc9b610",
+			"type":"file",
+			"file":"Thread.md",
+			"styleAttributes":{},
+			"x":724,
+			"y":-787,
+			"width":400,
+			"height":127
+		},
+		{
+			"id":"b3c34424a3144bf6",
+			"type":"file",
+			"file":"JUnit.md",
+			"styleAttributes":{},
+			"x":840,
+			"y":1421,
+			"width":300,
+			"height":102
+		},
+		{
+			"id":"4cc5065f1ba9f6b3",
+			"type":"file",
+			"file":"Java Versions and features.md",
+			"styleAttributes":{},
+			"x":1455,
+			"y":0,
+			"width":545,
+			"height":300
+		},
+		{
+			"id":"caef5be0bbfab52e",
+			"type":"text",
+			"text":"# Test",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1720,
+			"y":1361,
+			"width":260,
+			"height":60,
+			"color":"#03bd00"
+		},
+		{
+			"id":"4b22606d32c211a7",
+			"type":"text",
+			"text":"Criteria API",
+			"styleAttributes":{},
+			"x":8840,
+			"y":-1360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5675171e03d5ed8a",
+			"type":"text",
+			"text":"Projection",
+			"styleAttributes":{},
+			"x":9000,
+			"y":-696,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"902b06a7ab8f4ea7",
+			"type":"text",
+			"text":"SQL",
+			"isStartNode":false,
+			"styleAttributes":{},
+			"x":8845,
+			"y":-196,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"8c230b1640d3be14",
+			"type":"file",
+			"file":"Iterator.md",
+			"styleAttributes":{},
+			"x":51,
+			"y":-2507,
+			"width":305,
+			"height":141
+		},
+		{
+			"id":"47d3e2626eb66296",
+			"type":"file",
+			"file":"Hash table.md",
+			"styleAttributes":{},
+			"x":1106,
+			"y":-2497,
+			"width":349,
+			"height":131
+		},
+		{
+			"id":"2cb4f440fbdd1d87",
+			"type":"file",
+			"file":"The Collections Framework.md",
+			"styleAttributes":{},
+			"x":463,
+			"y":-2231,
+			"width":402,
+			"height":174
+		},
+		{
+			"id":"06b9951d1ba94688",
+			"type":"text",
+			"text":"String",
+			"styleAttributes":{},
+			"x":305,
+			"y":-1199,
+			"width":250,
+			"height":50
+		},
+		{
+			"id":"9c73ae739e0b2491",
+			"type":"file",
+			"file":"Collection.md",
+			"styleAttributes":{},
+			"x":-181,
+			"y":-3048,
+			"width":439,
+			"height":186
+		},
+		{
+			"id":"b079d5cd6fb64f1a",
+			"type":"file",
+			"file":"Map.md",
+			"styleAttributes":{},
+			"x":754,
+			"y":-3017,
+			"width":369,
+			"height":123
+		},
+		{
+			"id":"98923e77a3742208",
+			"type":"file",
+			"file":"Bucket 🪣.md",
+			"styleAttributes":{},
+			"x":1400,
+			"y":-2955,
+			"width":400,
+			"height":205
+		},
+		{
+			"id":"8fb20db6f65bbc14",
+			"type":"text",
+			"text":"Security Test\nPermissions endpoint management",
+			"styleAttributes":{},
+			"x":2200,
+			"y":1844,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"de8834b89b979cba",
+			"type":"text",
+			"text":"Quality Assurance",
+			"styleAttributes":{},
+			"x":2018,
+			"y":2054,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a309b0f6afe158b3",
+			"type":"file",
+			"file":"End to End.md",
+			"styleAttributes":{},
+			"x":1740,
+			"y":2288,
+			"width":360,
+			"height":175
+		},
+		{
+			"id":"3969d0ef51f13c94",
+			"type":"file",
+			"file":"Spring Data JPA.md",
+			"styleAttributes":{},
+			"x":6740,
+			"y":-2745,
+			"width":457,
+			"height":192
+		},
+		{
+			"id":"7a8310d5dbee1bb5",
+			"type":"text",
+			"text":"Projection",
+			"styleAttributes":{},
+			"x":7364,
+			"y":-2613,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4c7e2bfea4ca58a4",
+			"type":"file",
+			"file":"Integration test.md",
+			"styleAttributes":{},
+			"x":1454,
+			"y":1904,
+			"width":346,
+			"height":130
+		},
+		{
+			"id":"f977ff4f1108b603",
+			"type":"file",
+			"file":"Unit test.md",
+			"styleAttributes":{},
+			"x":1080,
+			"y":1900,
+			"width":300,
+			"height":145
+		},
+		{
+			"id":"b5965273e06b90c7",
+			"type":"text",
+			"text":"SpringTestContainerContext",
+			"styleAttributes":{},
+			"x":1274,
+			"y":2212,
+			"width":260,
+			"height":76
+		},
+		{
+			"id":"6f196f1676d4ad4b",
+			"type":"file",
+			"file":"Spring Data.md",
+			"styleAttributes":{},
+			"x":5897,
+			"y":-2917,
+			"width":543,
+			"height":197
+		},
+		{
+			"id":"f31794889adb64f9",
+			"type":"text",
+			"text":"Specification",
+			"styleAttributes":{},
+			"x":7367,
+			"y":-2805,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"37ffc5808ec1d0f8",
+			"type":"file",
+			"file":"Versionning.md",
+			"styleAttributes":{},
+			"x":3525,
+			"y":2538,
+			"width":480,
+			"height":492
+		},
+		{
+			"id":"6827b09a768de7b7",
+			"type":"text",
+			"text":"SOAP",
+			"styleAttributes":{},
+			"x":4676,
+			"y":2859,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"57f2f6e722568b1a",
+			"type":"file",
+			"file":"REST.md",
+			"styleAttributes":{},
+			"x":4360,
+			"y":3573,
+			"width":446,
+			"height":175
+		},
+		{
+			"id":"f9884bb87acee8af",
+			"type":"file",
+			"file":"Idempotent.md",
+			"styleAttributes":{},
+			"x":3620,
+			"y":3750,
+			"width":385,
+			"height":177
+		},
+		{
+			"id":"31cd7cd4c4a518e4",
+			"type":"file",
+			"file":"Application Programming Interface (API).md",
+			"styleAttributes":{},
+			"x":4200,
+			"y":2201,
+			"width":368,
+			"height":127
+		},
+		{
+			"id":"08f19c8a5b0e4576",
+			"type":"text",
+			"text":"Richardson Model",
+			"styleAttributes":{},
+			"x":4936,
+			"y":2759,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5d290fc9564abf54",
+			"type":"file",
+			"file":"Web Service.md",
+			"styleAttributes":{},
+			"x":5196,
+			"y":2441,
+			"width":400,
+			"height":212
+		},
+		{
+			"id":"7e1e1d8af7258383",
+			"type":"file",
+			"file":"Cache Control.md",
+			"styleAttributes":{},
+			"x":5090,
+			"y":3842,
+			"width":326,
+			"height":98
+		},
+		{
+			"id":"5e9584ab70418ad8",
+			"type":"text",
+			"text":"YAGNI, KISS, DRY",
+			"styleAttributes":{},
+			"x":5737,
+			"y":2985,
+			"width":250,
+			"height":90
+		},
+		{
+			"id":"aaef624b0c2b3178",
+			"type":"text",
+			"text":"# Craftmasnship",
+			"styleAttributes":{},
+			"x":5987,
+			"y":2441,
+			"width":250,
+			"height":50
+		},
+		{
+			"id":"b5cdf66504d43045",
+			"type":"file",
+			"file":"02 - Domaines/Architectures/Message Broker.md",
+			"styleAttributes":{},
+			"x":2434,
+			"y":2489,
+			"width":513,
+			"height":400
+		},
+		{
+			"id":"912efe89afe6a83e",
+			"type":"file",
+			"file":"02 - Domaines/Architectures/Kafka.md",
+			"styleAttributes":{},
+			"x":2018,
+			"y":3257,
+			"width":416,
+			"height":205
+		},
+		{
+			"id":"c3a85d3c12cf8741",
+			"type":"file",
+			"file":"02 - Domaines/Architectures/Advanced Message Queuing Protocol (AMQP).md",
+			"styleAttributes":{},
+			"x":2750,
+			"y":3323,
+			"width":394,
+			"height":139
+		},
+		{
+			"id":"cf47443ecbaf982e",
+			"type":"file",
+			"file":"Identifiable resources.md",
+			"styleAttributes":{},
+			"x":4052,
+			"y":4360,
+			"width":385,
+			"height":180
+		},
+		{
+			"id":"3d22b4e1ae4ba0b6",
+			"type":"file",
+			"file":"Hypermedia.md",
+			"styleAttributes":{},
+			"x":5280,
+			"y":4332,
+			"width":352,
+			"height":148
+		},
+		{
+			"id":"6b01d262591c6225",
+			"type":"file",
+			"file":"Standardized interface.md",
+			"styleAttributes":{},
+			"x":4280,
+			"y":4594,
+			"width":364,
+			"height":168
+		},
+		{
+			"id":"a124f1199b7d8b43",
+			"type":"text",
+			"text":"# Stateless\nEach request contains all the information needed for the server to process it, with no client state stored on the server.\n\n**Make the app scalable**. Requires only a front-end load balancer.\n**Favors low coupling**: Session concept cannot be shared.\n\nThe advantage of stateles is that it makes it easier to replicate servers, since no data is saved in RAM. **Allows easy horizontal scaling (server replication)**.",
+			"styleAttributes":{},
+			"x":4689,
+			"y":4594,
+			"width":380,
+			"height":168
+		},
+		{
+			"id":"16a178d3813c653b",
+			"type":"text",
+			"text":"Extreme programming",
+			"styleAttributes":{},
+			"x":6106,
+			"y":3258,
+			"width":250,
+			"height":66
+		},
+		{"id":"0d115b5ffc9376c8","type":"text","text":"MockMvc","x":1624,"y":2657,"width":250,"height":60},
+		{
+			"id":"0c8742e4571714e7",
+			"type":"file",
+			"file":"Single Responsibility Principle.md",
+			"styleAttributes":{},
+			"x":7635,
+			"y":2789,
+			"width":454,
+			"height":183
+		},
+		{
+			"id":"877ad47bce0bf99c",
+			"type":"text",
+			"text":"Design Pattern",
+			"styleAttributes":{},
+			"x":6614,
+			"y":3643,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"53fb8ccdf6b55fbf",
+			"type":"file",
+			"file":"Gradle 🐘.md",
+			"styleAttributes":{},
+			"x":1720,
+			"y":4356,
+			"width":328,
+			"height":280
+		},
+		{
+			"id":"14c338577b266a0d",
+			"type":"file",
+			"file":"Resource representation.md",
+			"styleAttributes":{},
+			"x":5115,
+			"y":4594,
+			"width":400,
+			"height":168
+		},
+		{
+			"id":"e35487c8314a2450",
+			"type":"text",
+			"text":"Multi Module",
+			"styleAttributes":{},
+			"x":-291,
+			"y":4865,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7316e2105ac9cfb1",
+			"type":"file",
+			"file":"URI.md",
+			"styleAttributes":{},
+			"x":3163,
+			"y":4467,
+			"width":388,
+			"height":163
+		},
+		{
+			"id":"2d986b23876659fe",
+			"type":"file",
+			"file":"Maven.md",
+			"styleAttributes":{},
+			"x":-80,
+			"y":4363,
+			"width":420,
+			"height":177
+		},
+		{
+			"id":"a8b5ec00521d734c",
+			"type":"file",
+			"file":"Maven Scope.md",
+			"styleAttributes":{},
+			"x":674,
+			"y":4660,
+			"width":386,
+			"height":205
+		},
+		{
+			"id":"a4298e3bafaba2aa",
+			"type":"text",
+			"text":"Activate Logs hibernate\nspring.jpa.show_sql:true\n",
+			"styleAttributes":{},
+			"x":8235,
+			"y":2080,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"76e38f9789ef654a",
+			"type":"text",
+			"text":"Batch Processing\nBatch update or Batch INSERT in SQL.",
+			"styleAttributes":{},
+			"x":8594,
+			"y":2087,
+			"width":260,
+			"height":113
+		},
+		{
+			"id":"9644c0d4248706be",
+			"type":"file",
+			"file":"Interface Segregation Principle (ISP).md",
+			"styleAttributes":{},
+			"x":7635,
+			"y":3233,
+			"width":454,
+			"height":186
+		},
+		{
+			"id":"364a2ab4a72bdf17",
+			"type":"text",
+			"text":"Observer",
+			"styleAttributes":{},
+			"x":8320,
+			"y":4692,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"6f6f9c3dee3a93cd",
+			"type":"file",
+			"file":"Open Closed Principle.md",
+			"styleAttributes":{},
+			"x":8109,
+			"y":2786,
+			"width":458,
+			"height":186
+		},
+		{
+			"id":"273c6a828be859ff",
+			"type":"file",
+			"file":"Liskov Substitution Principle.md",
+			"styleAttributes":{},
+			"x":7880,
+			"y":3010,
+			"width":458,
+			"height":175
+		},
+		{
+			"id":"0318174e46188eef",
+			"type":"file",
+			"file":"Dependency Inversion Principle.md",
+			"styleAttributes":{},
+			"x":8109,
+			"y":3233,
+			"width":458,
+			"height":186
+		},
+		{
+			"id":"300e760292e56804",
+			"type":"text",
+			"text":"Singleton",
+			"styleAttributes":{},
+			"x":7894,
+			"y":4710,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"97f26ea2652ea844",
+			"type":"text",
+			"text":"Chain of responsibility",
+			"styleAttributes":{},
+			"x":7850,
+			"y":4840,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"43cfe77aa69c1a7d",
+			"type":"text",
+			"text":"Consistency",
+			"styleAttributes":{},
+			"x":9853,
+			"y":2089,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"530c6a19c6ac067a",
+			"type":"text",
+			"text":"Builder",
+			"styleAttributes":{},
+			"x":7414,
+			"y":4692,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"cad78583d70b0e4a",
+			"type":"text",
+			"text":"L1 Cache",
+			"styleAttributes":{},
+			"x":9744,
+			"y":-3165,
+			"width":260,
+			"height":50
+		},
+		{
+			"id":"6a15b1d52f48856a",
+			"type":"file",
+			"file":"Hibernate Cache.md",
+			"styleAttributes":{},
+			"x":9584,
+			"y":-2733,
+			"width":420,
+			"height":176
+		},
+		{
+			"id":"beb5eb42df0faf6e",
+			"type":"file",
+			"file":"JPQL.md",
+			"styleAttributes":{},
+			"x":9557,
+			"y":-800,
+			"width":363,
+			"height":164
+		},
+		{
+			"id":"9452957afc878a35",
+			"type":"text",
+			"text":"Jointures",
+			"styleAttributes":{},
+			"x":9412,
+			"y":-90,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1508029a07d65114",
+			"type":"file",
+			"file":"Beans.md",
+			"styleAttributes":{},
+			"x":7552,
+			"y":-5807,
+			"width":408,
+			"height":200
+		},
+		{
+			"id":"93f81ce948947886",
+			"type":"file",
+			"file":"Context.md",
+			"styleAttributes":{},
+			"x":7552,
+			"y":-6070,
+			"width":408,
+			"height":195
+		},
+		{
+			"id":"dff92b4f8b78aa47",
+			"type":"file",
+			"file":"Singleton.md",
+			"styleAttributes":{},
+			"x":8140,
+			"y":-6196,
+			"width":380,
+			"height":149
+		},
+		{
+			"id":"484d45721065d441",
+			"type":"file",
+			"file":"Bean Life Cycle.md",
+			"styleAttributes":{},
+			"x":8140,
+			"y":-5777,
+			"width":423,
+			"height":170
+		},
+		{
+			"id":"b88eb94822fedd37",
+			"type":"file",
+			"file":"Prototype.md",
+			"styleAttributes":{},
+			"x":8140,
+			"y":-6024,
+			"width":380,
+			"height":149
+		},
+		{
+			"id":"039d81b77d45edc2",
+			"type":"file",
+			"file":"Keycloak.md",
+			"styleAttributes":{},
+			"x":7539,
+			"y":-4010,
+			"width":400,
+			"height":170
+		},
+		{
+			"id":"f5039664cf24a7ff",
+			"type":"file",
+			"file":"Spring Boot Auto Configuration.md",
+			"styleAttributes":{},
+			"x":7218,
+			"y":-4314,
+			"width":321,
+			"height":112
+		},
+		{
+			"id":"0f0b0049bfe716b9",
+			"type":"text",
+			"text":"ComponentScan",
+			"styleAttributes":{},
+			"x":7052,
+			"y":-4760,
+			"width":250,
+			"height":58
+		},
+		{
+			"id":"a7a96f0f8fb4dfa7",
+			"type":"file",
+			"file":"Fat - Uber Jar.md",
+			"styleAttributes":{},
+			"x":7218,
+			"y":-4564,
+			"width":300,
+			"height":124
+		},
+		{
+			"id":"f5819dcb9bb743ef",
+			"type":"file",
+			"file":"Core Container.md",
+			"styleAttributes":{},
+			"x":6895,
+			"y":-5867,
+			"width":431,
+			"height":160
+		},
+		{
+			"id":"1d391adbcd3a553b",
+			"type":"text",
+			"text":"ArrayDeque",
+			"styleAttributes":{},
+			"x":568,
+			"y":-4309,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"1a0975c3262b6385",
+			"type":"file",
+			"file":"HashMap.md",
+			"styleAttributes":{},
+			"x":643,
+			"y":-3536,
+			"width":329,
+			"height":149
+		},
+		{
+			"id":"686bc493eeee1e37",
+			"type":"text",
+			"text":"PriorityQueue",
+			"styleAttributes":{},
+			"x":760,
+			"y":-4011,
+			"width":260,
+			"height":50
+		},
+		{
+			"id":"2a7ccf349b4e8ae2",
+			"type":"file",
+			"file":"TreeMap.md",
+			"styleAttributes":{},
+			"x":1004,
+			"y":-3541,
+			"width":356,
+			"height":154
+		},
+		{
+			"id":"9393b836aef90e3a",
+			"type":"file",
+			"file":"Model View Controller.md",
+			"styleAttributes":{},
+			"x":2160,
+			"y":-5969,
+			"width":394,
+			"height":161
+		},
+		{
+			"id":"ea2df9b49fa7c550",
+			"type":"file",
+			"file":"List.md",
+			"styleAttributes":{},
+			"x":-353,
+			"y":-3697,
+			"width":361,
+			"height":161
+		},
+		{
+			"id":"2aeb504e28bb7d9b",
+			"type":"file",
+			"file":"ArrayList.md",
+			"styleAttributes":{},
+			"x":-373,
+			"y":-4373,
+			"width":317,
+			"height":124
+		},
+		{
+			"id":"c4282bba6827342f",
+			"type":"file",
+			"file":"Queue.md",
+			"styleAttributes":{},
+			"x":102,
+			"y":-3695,
+			"width":361,
+			"height":158
+		},
+		{
+			"id":"6a8e66ac2a15f3d2",
+			"type":"file",
+			"file":"LinkedList.md",
+			"styleAttributes":{},
+			"x":64,
+			"y":-4373,
+			"width":326,
+			"height":128
+		},
+		{
+			"id":"7e22152d2bf42037",
+			"type":"text",
+			"text":"Dequeu",
+			"styleAttributes":{},
+			"x":338,
+			"y":-4082,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"7efe26f968428b87",
+			"type":"file",
+			"file":"Spring alternatives.md",
+			"styleAttributes":{},
+			"x":2717,
+			"y":-4868,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"bea7171b441eb317",
+			"type":"file",
+			"file":"Spring MVC.md",
+			"isStartNode":false,
+			"styleAttributes":{},
+			"x":2440,
+			"y":-5445,
+			"width":421,
+			"height":190
+		},
+		{
+			"id":"7ba5580523e14f2d",
+			"type":"file",
+			"file":"Spring Framework 🌱.md",
+			"styleAttributes":{},
+			"x":3987,
+			"y":-4956,
+			"width":773,
+			"height":576,
+			"color":"#20c200"
+		},
+		{
+			"id":"1064d87a0958d7b6",
+			"type":"text",
+			"text":"Serialization",
+			"styleAttributes":{},
+			"x":6360,
+			"y":-4820,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0f962126a8aa0a99",
+			"type":"file",
+			"file":"Spring Boot.md",
+			"styleAttributes":{},
+			"x":6720,
+			"y":-4440,
+			"width":380,
+			"height":165
+		},
+		{
+			"id":"b58ddfa57a3049b8",
+			"type":"file",
+			"file":"Servlet.md",
+			"styleAttributes":{},
+			"x":2731,
+			"y":-5969,
+			"width":388,
+			"height":162
+		},
+		{
+			"id":"4e62bd61829b163f",
+			"type":"file",
+			"file":"Spring Boot Starter.md",
+			"styleAttributes":{},
+			"x":6786,
+			"y":-4135,
+			"width":334,
+			"height":103
+		},
+		{
+			"id":"f20c64ef32255471",
+			"type":"file",
+			"file":"Dependency Injection.md",
+			"styleAttributes":{},
+			"x":6025,
+			"y":-5440,
+			"width":431,
+			"height":161
+		},
+		{
+			"id":"5d5f92bdcf0a054e",
+			"type":"file",
+			"file":"Spring Webflux.md",
+			"styleAttributes":{},
+			"x":3555,
+			"y":-5876,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"9f04d3a317c01cd6",
+			"type":"file",
+			"file":"Inversion of Control 🔄.md",
+			"styleAttributes":{},
+			"x":6025,
+			"y":-5200,
+			"width":435,
+			"height":181
+		},
+		{
+			"id":"869c6a974a1e4638",
+			"type":"text",
+			"text":"Data class",
+			"styleAttributes":{},
+			"x":-920,
+			"y":2323,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0b971e98da839f29",
+			"type":"file",
+			"file":"Kotlin.md",
+			"styleAttributes":{},
+			"x":-690,
+			"y":2020,
+			"width":350,
+			"height":165
+		},
+		{
+			"id":"16a81247cb3b70ae",
+			"type":"text",
+			"text":"Conciseness",
+			"styleAttributes":{},
+			"x":-681,
+			"y":2548,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ce39550ab6526396",
+			"type":"text",
+			"text":"# Concurrency",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-730,
+			"y":-2290,
+			"width":300,
+			"height":69
+		},
+		{
+			"id":"f8d09a711da9a434",
+			"type":"file",
+			"file":"Thread.md",
+			"styleAttributes":{},
+			"x":-1364,
+			"y":-2727,
+			"width":403,
+			"height":176
+		},
+		{
+			"id":"bc853cad8009ada2",
+			"type":"text",
+			"text":"IO",
+			"styleAttributes":{},
+			"x":-840,
+			"y":-1720,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"29aa4b50014620cf",
+			"type":"file",
+			"file":"Context Switch.md",
+			"styleAttributes":{},
+			"x":-640,
+			"y":-2805,
+			"width":360,
+			"height":166
+		},
+		{
+			"id":"9fb98350d30854b9",
+			"type":"file",
+			"file":"Java ☕️.md",
+			"styleAttributes":{},
+			"x":-706,
+			"y":623,
+			"width":340,
+			"height":172,
+			"color":"1"
+		},
+		{
+			"id":"c363e4d1f16ea9c0",
+			"type":"file",
+			"file":"Spring Security.md",
+			"styleAttributes":{},
+			"x":6422,
+			"y":-3800,
+			"width":364,
+			"height":180
+		},
+		{
+			"id":"c5dd9fa63789903c",
+			"type":"file",
+			"file":"WebSocket.md",
+			"styleAttributes":{},
+			"x":3200,
+			"y":-6539,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"392c015f272a047d",
+			"type":"file",
+			"file":"Set.md",
+			"styleAttributes":{},
+			"x":-800,
+			"y":-3697,
+			"width":343,
+			"height":161
+		},
+		{
+			"id":"8e316664dc6c22e6",
+			"type":"file",
+			"file":"HashSet.md",
+			"styleAttributes":{},
+			"x":-1201,
+			"y":-4292,
+			"width":370,
+			"height":191
+		},
+		{
+			"id":"e6730451c65c6280",
+			"type":"file",
+			"file":"TreeSet.md",
+			"styleAttributes":{},
+			"x":-721,
+			"y":-4121,
+			"width":368,
+			"height":160
+		},
+		{
+			"id":"bf9de42b63fdca4e",
+			"type":"file",
+			"file":"Virtual Thread.md",
+			"styleAttributes":{},
+			"x":-920,
+			"y":-3270,
+			"width":400,
+			"height":232
+		},
+		{
+			"id":"331ea26095863562",
+			"type":"text",
+			"text":"## Runtime\n\n",
+			"styleAttributes":{},
+			"x":6634,
+			"y":-7154,
+			"width":286,
+			"height":114
+		},
+		{
+			"id":"5c57fc575bd345ca",
+			"type":"file",
+			"file":"Spring AOP.md",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":5072,
+			"y":-7216,
+			"width":372,
+			"height":172
+		},
+		{
+			"id":"764d9a6574019895",
+			"type":"file",
+			"file":"Aspect Oriented Programming.md",
+			"styleAttributes":{},
+			"x":4440,
+			"y":-7236,
+			"width":447,
+			"height":172
+		},
+		{
+			"id":"df316ebb6dc6d6c8",
+			"type":"file",
+			"file":"Proxy.md",
+			"styleAttributes":{},
+			"x":5576,
+			"y":-7319,
+			"width":407,
+			"height":165
+		},
+		{
+			"id":"bcbf07b9909b353c",
+			"type":"file",
+			"file":"Weaving.md",
+			"styleAttributes":{},
+			"x":6193,
+			"y":-7309,
+			"width":303,
+			"height":128
+		},
+		{
+			"id":"1dbe3b08c789a5e9",
+			"type":"text",
+			"text":"## Class load time \n- Insert bytecode into the JVM\n- No need to recompile\n\n[[Class Loader]]\n",
+			"styleAttributes":{},
+			"x":6639,
+			"y":-7275,
+			"width":281,
+			"height":94
+		},
+		{
+			"id":"131d035c9012c823",
+			"type":"text",
+			"text":"## Compile time\n\ntransformation into bytecode\n",
+			"styleAttributes":{},
+			"x":6634,
+			"y":-7421,
+			"width":286,
+			"height":112
+		},
+		{
+			"id":"6effbdab52df2d9c",
+			"type":"file",
+			"file":"JDK Dynamic Proxies.md",
+			"styleAttributes":{},
+			"x":5813,
+			"y":-7661,
+			"width":340,
+			"height":156
+		},
+		{
+			"id":"433a3703c0fbe139",
+			"type":"file",
+			"file":"CGLib Proxies.md",
+			"styleAttributes":{},
+			"x":5428,
+			"y":-7661,
+			"width":345,
+			"height":156
+		},
+		{
+			"id":"2fdef452534bf316",
+			"type":"file",
+			"file":"JoinPoint.md",
+			"styleAttributes":{},
+			"x":3664,
+			"y":-7778,
+			"width":340,
+			"height":160
+		},
+		{
+			"id":"13f39a0da1237de5",
+			"type":"file",
+			"file":"Pointcut.md",
+			"styleAttributes":{},
+			"x":4052,
+			"y":-7778,
+			"width":348,
+			"height":160
+		},
+		{
+			"id":"0a21bd2b3a3aaeef",
+			"type":"file",
+			"file":"Advice.md",
+			"styleAttributes":{},
+			"x":3300,
+			"y":-7778,
+			"width":316,
+			"height":160
+		},
+		{
+			"id":"78a03f2dd495d688",
+			"type":"file",
+			"file":"images/Pasted image 20240727222500.png",
+			"styleAttributes":{},
+			"x":3652,
+			"y":-8200,
+			"width":400,
+			"height":272
 		}
 	],
 	"edges":[

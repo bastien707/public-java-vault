@@ -1,3 +1,6 @@
+- Fast
+- Test business logic
+
 **Unit tests are designed to test individual components or units of code in isolation**, typically at the function or method level. This helps ensure that each part of the code works as intended on its own.
 #### Characteristics
 

@@ -1,7 +1,25 @@
+- Programming paradigm
+- Based on **pure mathematical functions**: [[Pure Function]]
+	- Same input ⇒ Same output
+	- No side effects
+- **Immutability** ⇒ Reduce introducing bugs
+- *Advantages* : 
+	- More concise : `.stream().filter().foreach()` instead of loops, if, while...
+	- Limit bugs through immutability
+	- Easy parallel processing with stream vs harder with collections
+- *Disadvantages*
+	- Can be less performant for small loops through streams (due to object creation)
+
+***
+
+
 *Functional programming* represents a programming *paradigm* that aims to bind all things in **pure mathematical functions** based on lambda calculus. In other words, FP is an approach to software construction based on creating pure functions. FP helps in solving problems where many different operations need to be performed on the same data set.
 ### Core principles
 
-- **Pure Functions:** Functions that always produce the same output for the same input and have no side effects (do not alter any state or data outside their scope). 
+- **Pure Functions:** Functions that always produce the same output for the same input and have no side effects (do not alter any state or data outside their scope). Pure functions are used as arguments of methods like filter, map...
+	- **Prédicats** (pour `filter`) : `word -> word.length() > 5`
+	- **Fonctions de mappage** (pour `map`) : `word -> word.length()`
+	- **Fonctions de réduction** (pour `reduce`) : `(a, b) -> a + b`
 
 - **Immutability:** Data is immutable; once created, it cannot be changed. New data structures are created instead of modifying existing ones.
 

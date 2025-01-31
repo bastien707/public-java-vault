@@ -1,9 +1,14 @@
+- It's an IoC framework, meaning:
+	- We use it because developer can focus on business code
+	- Spring inject technical code
+- Makes test easy by using **DI**.
+
+***
 The Spring Framework is a comprehensive framework for enterprise Java development. The main goal is to make JEE application development easier.
 
 J2E apps were **tightly coupled** (should extend servlet, EJB...). It's **heavy weight**, and need a lot a **boilerplate code**. *Rod Johnson* introduced Spring Framework.
 
 Spring Boot : 3.2.5 is based on Spring: 6.1.
-
 ## Spring in a nutshell
 
 - It's a framework.

@@ -2,4 +2,5 @@ A **proxy** is an object that acts as an intermediary or placeholder for another
 
 It happens at runtime in the context of Spring application.
 
+https://refactoring.guru/design-patterns/proxy
 [[Weaving]], [[CGLib Proxies]], [[JDK Dynamic Proxies]]

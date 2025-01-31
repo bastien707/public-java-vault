@@ -29,17 +29,18 @@ Kotlin 1.9.0
 Angular 14
 Spring 6
 Spring Boot 3.2.2
-
-## DE
-Spring 6
-Spring boot 3.3.3
-
 ## De
 Java 17
 Angular 17
 Kotlin 1.9
 Spring 6
 Spring boot 3.3.3
+
+## Tima
+Java 21
+React 18
+NextJs 4.2
+
 
 
 

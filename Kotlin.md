@@ -1,3 +1,10 @@
+- More functional programming than Java
+- Null safety
+- More concise syntax
+- No checked exceptions
+- 100% interoperable with Java
+- We can extend functions. (like in DE extend JWT methods to get username etc.)
+
 Both Kotlin and Java compile to bytecode that runs on the JVM, which means they have similar performance characteristics.
 ### Null safety
 

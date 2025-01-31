@@ -1,1 +1,2 @@
-Ensures that the operations within a transaction are isolated from other transactions. Intermediate states of a transaction are not visible to other transactions, preventing concurrent transactions from interfering with each other.
+Ensures that **multiple transactions can occur concurrently without leading to the inconsistency** of the database state. Transactions occur independently without interference. Changes occurring in a particular transaction will not be visible to any other transaction until that particular change in that transaction is written to memory or has been committed.
+This property ensures that when multiple transactions run at the same time, **the result will be the same as if they were run one after another in a specific order**.

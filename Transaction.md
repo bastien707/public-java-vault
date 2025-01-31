@@ -6,7 +6,7 @@ A transaction must follow ACID properties
 #### Atomicity
 Ensures that all operations within the transaction are completed successfully. If any operation fails, the entire transaction is rolled back, leaving the database in its original state.
 #### Consistency
-Ensures that a transaction takes the database from one valid state to another. For example, when making a bank transfer of €100, the money must be added from one account and debited from the other account. It cannot be just added to one account.
+Consistency ensures that a database remains in a valid state before and after a transaction. It guarantees that any transaction will take the database from one consistent state to another, **maintaining the rules and constraints defined for the data**.
 #### Isolation
 Ensures that the operations within a transaction are isolated from other transactions. Intermediate states of a transaction are not visible to other transactions, preventing concurrent transactions from interfering with each other.
 #### Durability

@@ -1,3 +1,7 @@
+- Design Pattern
+- Way to **add transversal behaviour** without modifying business code.
+- e.g `@Transactional`
+
 AOP stands for aspect orientated programming. Essentially, **it is a way for adding behavior to existing code without modifying that code**. AOP is a programming paradigm that aims to increase modularity by allowing the separation of cross-cutting concerns. Spring uses AOP for *Dependency injection* or *managing transactions*.
 
 AOP addresses the problem of _cross-cutting concerns_, which would be any kind of code that is repeated in different methods and can't normally be completely refactored into its own module, like with logging or verification.

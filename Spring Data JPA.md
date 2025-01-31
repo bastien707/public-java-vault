@@ -1,3 +1,14 @@
+- Features to simplify JPA-based data access ;
+- Provides `JpaRepository`, `CrudRepository` ;
+- Provides Paging And Sorting interfaces ;
+- Various ways of Querying
+	- basics cruds queries with `CrudRepository` e.g: `save()`, `find()`, `findAll()`, `delete()` ...
+	- derived queries from `JpaRepository` ⇒ `findByCandidateIdAndType`
+	- native queries ⇒ `@Query`  with JPQL or SQL by activating native=true.
+	- entity graph.
+
+***
+
 Spring Data JPA is on top of the core Spring Data project and adds additional features to simplify JPA-based data access. Spring Data JPA is a JPA data access abstraction.
 
 It can also generate JPA queries on your behalf through method name conventions.
@@ -28,6 +39,8 @@ Provides easy-to-use methods for pagination and sorting of results.
 Allows the use of JPA Criteria API and Specifications for more complex queries and dynamic query generation. You can support specification using `JpaSpecificationExecutor` interface.
 
 --- 
+[[Java Persistence API (JPA)]]
+[[Spring Data]]
 ## References
 
 ```cardlink

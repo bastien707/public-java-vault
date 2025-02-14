@@ -23,8 +23,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Java World"
             }
+          },
+          {
+            "id": "d39ea55fcc4be374",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +56,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -165,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80dc6d7096b3fcce",
+  "active": "d39ea55fcc4be374",
   "lastOpenFiles": [
     "Java Virtual Machine.md",
     "Bean Life Cycle.md",

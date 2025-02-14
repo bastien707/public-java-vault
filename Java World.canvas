@@ -11,6 +11,28 @@
 			"label":"Project management"
 		},
 		{
+			"id":"4a1f14762ec3f2af",
+			"type":"group",
+			"styleAttributes":{},
+			"x":3280,
+			"y":-7840,
+			"width":1141,
+			"height":280,
+			"color":"#e2acac",
+			"label":"Aspect"
+		},
+		{
+			"id":"a7565538ef104f4f",
+			"type":"group",
+			"styleAttributes":{},
+			"x":8883,
+			"y":-2400,
+			"width":509,
+			"height":612,
+			"color":"2",
+			"label":"JPA implementation"
+		},
+		{
 			"id":"f0c538b2890cd7fc",
 			"type":"group",
 			"styleAttributes":{},
@@ -42,28 +64,6 @@
 			"height":753,
 			"color":"#e16b6b",
 			"label":"SOLID"
-		},
-		{
-			"id":"4a1f14762ec3f2af",
-			"type":"group",
-			"styleAttributes":{},
-			"x":3280,
-			"y":-7840,
-			"width":1141,
-			"height":280,
-			"color":"#e2acac",
-			"label":"Aspect"
-		},
-		{
-			"id":"a7565538ef104f4f",
-			"type":"group",
-			"styleAttributes":{},
-			"x":8883,
-			"y":-2400,
-			"width":509,
-			"height":612,
-			"color":"2",
-			"label":"JPA implementation"
 		},
 		{
 			"id":"ec52ee9d71af8d1d",
@@ -1177,48 +1177,6 @@
 			"height":119
 		},
 		{
-			"id":"74085217199c5ec3",
-			"type":"file",
-			"file":"Hibernate.md",
-			"isStartNode":false,
-			"styleAttributes":{},
-			"x":8903,
-			"y":-2380,
-			"width":469,
-			"height":247
-		},
-		{
-			"id":"7ee9319a9e44693e",
-			"type":"file",
-			"file":"EclipseLink.md",
-			"styleAttributes":{},
-			"x":8910,
-			"y":-2088,
-			"width":462,
-			"height":143
-		},
-		{
-			"id":"9fa1122f68896565",
-			"type":"text",
-			"text":"# Open JPA",
-			"styleAttributes":{},
-			"x":8910,
-			"y":-1901,
-			"width":462,
-			"height":73
-		},
-		{
-			"id":"0d573339942f073a",
-			"type":"file",
-			"file":"Java Persistence API (JPA).md",
-			"styleAttributes":{},
-			"x":7920,
-			"y":-1957,
-			"width":443,
-			"height":232,
-			"color":"5"
-		},
-		{
 			"id":"5a12875116c73e2b",
 			"type":"text",
 			"text":"Null pointer",
@@ -1401,26 +1359,6 @@
 			"height":175
 		},
 		{
-			"id":"3969d0ef51f13c94",
-			"type":"file",
-			"file":"Spring Data JPA.md",
-			"styleAttributes":{},
-			"x":6740,
-			"y":-2745,
-			"width":457,
-			"height":192
-		},
-		{
-			"id":"7a8310d5dbee1bb5",
-			"type":"text",
-			"text":"Projection",
-			"styleAttributes":{},
-			"x":7364,
-			"y":-2613,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"4c7e2bfea4ca58a4",
 			"type":"file",
 			"file":"Integration test.md",
@@ -1449,26 +1387,6 @@
 			"y":2212,
 			"width":260,
 			"height":76
-		},
-		{
-			"id":"6f196f1676d4ad4b",
-			"type":"file",
-			"file":"Spring Data.md",
-			"styleAttributes":{},
-			"x":5897,
-			"y":-2917,
-			"width":543,
-			"height":197
-		},
-		{
-			"id":"f31794889adb64f9",
-			"type":"text",
-			"text":"Specification",
-			"styleAttributes":{},
-			"x":7367,
-			"y":-2805,
-			"width":260,
-			"height":60
 		},
 		{
 			"id":"37ffc5808ec1d0f8",
@@ -1932,16 +1850,6 @@
 			"height":149
 		},
 		{
-			"id":"039d81b77d45edc2",
-			"type":"file",
-			"file":"Keycloak.md",
-			"styleAttributes":{},
-			"x":7539,
-			"y":-4010,
-			"width":400,
-			"height":170
-		},
-		{
 			"id":"f5039664cf24a7ff",
 			"type":"file",
 			"file":"Spring Boot Auto Configuration.md",
@@ -2144,26 +2052,6 @@
 			"height":162
 		},
 		{
-			"id":"4e62bd61829b163f",
-			"type":"file",
-			"file":"Spring Boot Starter.md",
-			"styleAttributes":{},
-			"x":6786,
-			"y":-4135,
-			"width":334,
-			"height":103
-		},
-		{
-			"id":"f20c64ef32255471",
-			"type":"file",
-			"file":"Dependency Injection.md",
-			"styleAttributes":{},
-			"x":6025,
-			"y":-5440,
-			"width":431,
-			"height":161
-		},
-		{
 			"id":"5d5f92bdcf0a054e",
 			"type":"file",
 			"file":"Spring Webflux.md",
@@ -2265,16 +2153,6 @@
 			"color":"1"
 		},
 		{
-			"id":"c363e4d1f16ea9c0",
-			"type":"file",
-			"file":"Spring Security.md",
-			"styleAttributes":{},
-			"x":6422,
-			"y":-3800,
-			"width":364,
-			"height":180
-		},
-		{
 			"id":"c5dd9fa63789903c",
 			"type":"file",
 			"file":"WebSocket.md",
@@ -2347,26 +2225,6 @@
 			"height":172
 		},
 		{
-			"id":"764d9a6574019895",
-			"type":"file",
-			"file":"Aspect Oriented Programming.md",
-			"styleAttributes":{},
-			"x":4440,
-			"y":-7236,
-			"width":447,
-			"height":172
-		},
-		{
-			"id":"df316ebb6dc6d6c8",
-			"type":"file",
-			"file":"Proxy.md",
-			"styleAttributes":{},
-			"x":5576,
-			"y":-7319,
-			"width":407,
-			"height":165
-		},
-		{
 			"id":"bcbf07b9909b353c",
 			"type":"file",
 			"file":"Weaving.md",
@@ -2387,16 +2245,6 @@
 			"height":94
 		},
 		{
-			"id":"131d035c9012c823",
-			"type":"text",
-			"text":"## Compile time\n\ntransformation into bytecode\n",
-			"styleAttributes":{},
-			"x":6634,
-			"y":-7421,
-			"width":286,
-			"height":112
-		},
-		{
 			"id":"6effbdab52df2d9c",
 			"type":"file",
 			"file":"JDK Dynamic Proxies.md",
@@ -2415,6 +2263,148 @@
 			"y":-7661,
 			"width":345,
 			"height":156
+		},
+		{
+			"id":"74085217199c5ec3",
+			"type":"file",
+			"file":"Hibernate.md",
+			"isStartNode":false,
+			"styleAttributes":{},
+			"x":8903,
+			"y":-2380,
+			"width":469,
+			"height":247
+		},
+		{
+			"id":"7ee9319a9e44693e",
+			"type":"file",
+			"file":"EclipseLink.md",
+			"styleAttributes":{},
+			"x":8910,
+			"y":-2088,
+			"width":462,
+			"height":143
+		},
+		{
+			"id":"9fa1122f68896565",
+			"type":"text",
+			"text":"# Open JPA",
+			"styleAttributes":{},
+			"x":8910,
+			"y":-1901,
+			"width":462,
+			"height":73
+		},
+		{
+			"id":"3969d0ef51f13c94",
+			"type":"file",
+			"file":"Spring Data JPA.md",
+			"styleAttributes":{},
+			"x":6740,
+			"y":-2745,
+			"width":457,
+			"height":192
+		},
+		{
+			"id":"6f196f1676d4ad4b",
+			"type":"file",
+			"file":"Spring Data.md",
+			"styleAttributes":{},
+			"x":5897,
+			"y":-2917,
+			"width":543,
+			"height":197
+		},
+		{
+			"id":"f31794889adb64f9",
+			"type":"text",
+			"text":"Specification",
+			"styleAttributes":{},
+			"x":7367,
+			"y":-2805,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"039d81b77d45edc2",
+			"type":"file",
+			"file":"Keycloak.md",
+			"styleAttributes":{},
+			"x":7539,
+			"y":-4010,
+			"width":400,
+			"height":170
+		},
+		{
+			"id":"4e62bd61829b163f",
+			"type":"file",
+			"file":"Spring Boot Starter.md",
+			"styleAttributes":{},
+			"x":6786,
+			"y":-4135,
+			"width":334,
+			"height":103
+		},
+		{
+			"id":"c363e4d1f16ea9c0",
+			"type":"file",
+			"file":"Spring Security.md",
+			"styleAttributes":{},
+			"x":6422,
+			"y":-3800,
+			"width":364,
+			"height":180
+		},
+		{
+			"id":"0d573339942f073a",
+			"type":"file",
+			"file":"Java Persistence API (JPA).md",
+			"styleAttributes":{},
+			"x":7920,
+			"y":-1957,
+			"width":443,
+			"height":232,
+			"color":"5"
+		},
+		{
+			"id":"7a8310d5dbee1bb5",
+			"type":"text",
+			"text":"Projection",
+			"styleAttributes":{},
+			"x":7364,
+			"y":-2613,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"764d9a6574019895",
+			"type":"file",
+			"file":"Aspect Oriented Programming.md",
+			"styleAttributes":{},
+			"x":4440,
+			"y":-7236,
+			"width":447,
+			"height":172
+		},
+		{
+			"id":"df316ebb6dc6d6c8",
+			"type":"file",
+			"file":"Proxy.md",
+			"styleAttributes":{},
+			"x":5576,
+			"y":-7319,
+			"width":407,
+			"height":165
+		},
+		{
+			"id":"131d035c9012c823",
+			"type":"text",
+			"text":"## Compile time\n\ntransformation into bytecode\n",
+			"styleAttributes":{},
+			"x":6634,
+			"y":-7421,
+			"width":286,
+			"height":112
 		},
 		{
 			"id":"2fdef452534bf316",
@@ -2455,6 +2445,16 @@
 			"y":-8200,
 			"width":400,
 			"height":272
+		},
+		{
+			"id":"f20c64ef32255471",
+			"type":"file",
+			"file":"Dependency Injection.md",
+			"styleAttributes":{},
+			"x":6025,
+			"y":-5440,
+			"width":431,
+			"height":161
 		}
 	],
 	"edges":[

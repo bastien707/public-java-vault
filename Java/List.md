@@ -1,1 +1,0 @@
-`Object` containing a collection of objects **ordered with an index.**

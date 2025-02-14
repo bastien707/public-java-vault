@@ -1,1 +1,0 @@
-Ensures that the operations within a transaction are isolated from other transactions. Intermediate states of a transaction are not visible to other transactions, preventing concurrent transactions from interfering with each other.
